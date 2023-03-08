@@ -1,3 +1,3 @@
 謎い
 
-![[2764A7F1-7FAC-4163-8BEB-59B7E833EDD3.jpeg]]
+![[quartz/content/notes/attachments/DC9435B9-C723-46E0-B4CD-6A99208097CE.jpeg]]
