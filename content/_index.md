@@ -3,7 +3,7 @@ title: 🪴 Quartz 3.3
 enableToc: false
 ---
 
-[日記はここ](/tags/daily).
+初めまして、あなたは誰？[日記はここ](/tags/daily).
 
 [[notes/Quartz]]
 
