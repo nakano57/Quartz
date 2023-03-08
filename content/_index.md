@@ -3,7 +3,7 @@ title: 🪴 Quartz 3.3
 enableToc: false
 ---
 
-Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
+[日記はここ](/tags/daily).
 
 [[notes/Quartz]]
 
