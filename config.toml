@@ -1,5 +1,5 @@
-baseURL = "https://quartz.jzhao.xyz/"
-languageCode = "en-us"
+baseURL = "https://milkto.coffee/"
+languageCode = "ja-jp"
 relativeURLs = false
 disablePathToLower = true
 ignoreFiles = [
