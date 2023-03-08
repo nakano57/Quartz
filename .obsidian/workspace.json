@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/Test-Note.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eb862bcb618a960f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/_index.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/_index.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/_index.md"
+                "file": "README.md"
               }
             }
           }
@@ -160,17 +147,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "eb862bcb618a960f",
+  "active": "dee6fcb3877a15f0",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "screenshot.png",
+    "content/templates/note.md",
+    "content/templates/post.md",
+    "content/templates/daily.md",
+    "content/daily/2023-03-08-Wednesday.md",
+    "content/_index.md",
     "content/notes/About me.md",
     "content/notes/Test-Note.md",
-    "content/daily/2023-03-08-Wednesday.md",
     "content/attachments/DE0A0144-9D8A-46EF-9BA0-75953CEFA407_1_102_o.jpeg",
-    "Untitled.canvas",
     "content/attachments/DC9435B9-C723-46E0-B4CD-6A99208097CE.jpeg",
     "content/notes/Quartz.md",
     "content/notes/attachments/DC9435B9-C723-46E0-B4CD-6A99208097CE.jpeg",
-    "content/notes/attachments",
-    "content/templates/daily.md"
+    "content/notes/attachments"
   ]
 }

@@ -2,6 +2,7 @@
 title: "2023-03-08-Wednesday"
 created: 2023-03-08 17:41
 tags:
+- post
 - daily
 ---
 
