@@ -12,7 +12,7 @@ enableContextualBacklinks: true
 enableRecentNotes: false
 enableGitHubEdit: true
 enableMermaid: true
-GitHubLink: https://github.com/jackyzha0/quartz/tree/hugo/content
+GitHubLink: https://github.com/nakano57/quartz/tree/hugo/content
 search:
   enableSemanticSearch: false
   operandApiKey: "h5r2d6dft9k8u5iagz9ta1a6ey42mnze"
@@ -21,7 +21,7 @@ description:
   Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
   Wikilink support, backlinks, local graph, tags, and link previews.
 page_title:
-  "🪴 Quartz 3.3"
+  "🥛 to ☕️"
 links:
   - link_name: Twitter
     link: https://twitter.com/hiro2do
