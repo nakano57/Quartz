@@ -1,3 +1,5 @@
 {
-  "format": "YYYY-MM-DD-dddd"
+  "format": "YYYY-MM-DD-dddd",
+  "folder": "content/daily",
+  "template": "content/templates/daily"
 }

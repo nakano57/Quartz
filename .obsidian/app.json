@@ -3,5 +3,6 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "content/notes",
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "content/attachments"
+  "attachmentFolderPath": "content/attachments",
+  "promptDelete": false
 }
