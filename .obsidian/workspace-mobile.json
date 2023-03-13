@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/daily/2023-03-12-Sunday.md",
+                "file": "content/daily/2023-03-13-Monday.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/daily/2023-03-12-Sunday.md",
+            "file": "content/daily/2023-03-13-Monday.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "content/daily/2023-03-12-Sunday.md",
+            "file": "content/daily/2023-03-13-Monday.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "content/daily/2023-03-12-Sunday.md"
+            "file": "content/daily/2023-03-13-Monday.md"
           }
         }
       }
@@ -134,9 +134,11 @@
   },
   "active": "7bf51a3ec4c5efb7",
   "lastOpenFiles": [
+    "content/attachments/4EC7775D-C4EF-470C-B389-DDE7B3FDF7CD.jpeg",
+    "content/daily/2023-03-12-Sunday.md",
+    "content/daily/2023-03-13-Monday.md",
     "content/attachments/EE8CBD30-5D7D-4AB7-AA21-2A33A37CCE7A.jpeg",
     "content/daily/2023-03-11-Saturday.md",
-    "content/daily/2023-03-12-Sunday.md",
     "content/daily/2023-03-10-Friday.md",
     "content/attachments/296E1D24-FE69-43A2-A438-682A633B3A64.jpeg",
     "content/notes/ラーメン.md",
