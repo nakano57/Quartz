@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/daily/2023-03-18-Saturday.md",
+                "file": "content/daily/2023-03-19-Sunday.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/daily/2023-03-18-Saturday.md",
+            "file": "content/daily/2023-03-19-Sunday.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "content/daily/2023-03-18-Saturday.md",
+            "file": "content/daily/2023-03-19-Sunday.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "content/daily/2023-03-18-Saturday.md"
+            "file": "content/daily/2023-03-19-Sunday.md"
           }
         }
       }
@@ -134,9 +134,11 @@
   },
   "active": "7bf51a3ec4c5efb7",
   "lastOpenFiles": [
+    "content/attachments/7EEF3790-39E4-433E-9B60-CF5376925901.jpeg",
+    "content/daily/2023-03-18-Saturday.md",
+    "content/daily/2023-03-19-Sunday.md",
     "content/attachments/8225402C-6C91-4BCE-9A10-2AFAD8EAE6CC.jpeg",
     "content/daily/2023-03-17-Friday.md",
-    "content/daily/2023-03-18-Saturday.md",
     "content/attachments/Pasted image 20230318005135.jpg",
     "content/daily/2023-03-16-Thursday.md",
     "content/notes/2023-03-15-Wednesday.md",
