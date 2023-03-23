@@ -9,13 +9,13 @@ enableCallouts: true
 enableSPA: true
 enableFooter: true
 enableContextualBacklinks: true
-enableRecentNotes: false
+enableRecentNotes: true
 enableGitHubEdit: true
 enableMermaid: true
 GitHubLink: https://github.com/nakano57/quartz/tree/hugo/content
 search:
   enableSemanticSearch: false
-  operandApiKey: "h5r2d6dft9k8u5iagz9ta1a6ey42mnze"
+  operandApiKey: ""
   operandIndexId: "REPLACE-WITH-YOUR-OPERAND-INDEX-ID"
 description:
   Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
