@@ -3,5 +3,7 @@ title: "<% tp.file.title %>"
 created: <% tp.file.creation_date() %>
 tags:
 - post
-- note
+- notes
 ---
+
+<% tp.file.cursor() %>

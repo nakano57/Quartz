@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "content/notes/ラーメン.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "content/notes/ラーメン.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "content/notes/ラーメン.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "content/notes/ラーメン.md"
               }
             }
           }
@@ -149,18 +149,27 @@
   },
   "active": "dee6fcb3877a15f0",
   "lastOpenFiles": [
+    "content/notes/About me.md",
+    "content/notes/Quartz.md",
+    "content/notes/Test-Note.md",
+    "content/notes/チャーハン.md",
+    "content/notes/ラーメン.md",
+    "content/daily/2023-03-17-Friday.md",
+    "content/daily/2023-03-18-Saturday.md",
+    "content/daily/2023-03-19-Sunday.md",
+    "content/daily/2023-03-20-Monday.md",
+    "content/daily/2023-03-21-Tuesday.md",
+    "README.md",
     "content/attachments/4EC7775D-C4EF-470C-B389-DDE7B3FDF7CD.jpeg",
     "content/daily/2023-03-13-Monday.md",
     "content/attachments/EE8CBD30-5D7D-4AB7-AA21-2A33A37CCE7A.jpeg",
     "content/daily/2023-03-12-Sunday.md",
     "content/daily/2023-03-11-Saturday.md",
     "content/attachments/296E1D24-FE69-43A2-A438-682A633B3A64.jpeg",
-    "content/notes/ラーメン.md",
     "content/daily/2023-03-10-Friday.md",
     "tags/daily.md",
     "tags",
     "content/attachments/D05D0044-BFE0-470B-A559-72E4012356CB.jpeg",
-    "content/notes/チャーハン.md",
     "content/daily/2023-03-09-Thursday.md",
     "Untitled.canvas",
     "screenshot.png",
@@ -169,11 +178,8 @@
     "content/templates/daily.md",
     "content/daily/2023-03-08-Wednesday.md",
     "content/_index.md",
-    "content/notes/About me.md",
-    "content/notes/Test-Note.md",
     "content/attachments/DE0A0144-9D8A-46EF-9BA0-75953CEFA407_1_102_o.jpeg",
     "content/attachments/DC9435B9-C723-46E0-B4CD-6A99208097CE.jpeg",
-    "content/notes/Quartz.md",
     "content/notes/attachments/DC9435B9-C723-46E0-B4CD-6A99208097CE.jpeg",
     "content/notes/attachments"
   ]

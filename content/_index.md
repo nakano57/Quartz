@@ -3,7 +3,9 @@ title: milk to coffee
 enableToc: false
 ---
 
-初めまして、あなたは誰？[日記はここ](/tags/daily).
+初めまして、あなたは誰？
+
+[Notes](/tags/notes).
 
 [[notes/About me]]
 
