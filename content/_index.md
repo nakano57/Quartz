@@ -5,7 +5,7 @@ enableToc: false
 
 初めまして、あなたは誰？
 
-[Notes](/tags/notes).
+[Notes](/tags/notes)
 
 [[notes/About me]]
 
