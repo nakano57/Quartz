@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/ラーメン.md",
+                "file": "content/daily/2023-03-24-Friday.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/ラーメン.md",
+                "file": "content/daily/2023-03-24-Friday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/ラーメン.md",
+                "file": "content/daily/2023-03-24-Friday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/ラーメン.md"
+                "file": "content/daily/2023-03-24-Friday.md"
               }
             }
           }
@@ -149,11 +149,17 @@
   },
   "active": "dee6fcb3877a15f0",
   "lastOpenFiles": [
+    "content/attachments/0F38010C-86C9-43E1-99C4-F7BE3C8E7AEB.jpeg",
+    "content/daily/2023-03-25-Saturday.md",
+    "content/notes/ラーメン.md",
+    "content/daily/2023-03-24-Friday.md",
+    "0324量子ミーティング.pdf",
+    "content/daily/2023-03-23-Thursday.md",
+    "content/attachments/94132C9D-FBF6-4982-83B8-5A64BD83DC50.jpeg",
     "content/notes/About me.md",
     "content/notes/Quartz.md",
     "content/notes/Test-Note.md",
     "content/notes/チャーハン.md",
-    "content/notes/ラーメン.md",
     "content/daily/2023-03-17-Friday.md",
     "content/daily/2023-03-18-Saturday.md",
     "content/daily/2023-03-19-Sunday.md",

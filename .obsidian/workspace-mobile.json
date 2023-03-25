@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/daily/2023-03-23-Thursday.md",
+                "file": "content/daily/2023-03-25-Saturday.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/daily/2023-03-23-Thursday.md",
+            "file": "content/daily/2023-03-25-Saturday.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "content/daily/2023-03-23-Thursday.md",
+            "file": "content/daily/2023-03-25-Saturday.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "content/daily/2023-03-23-Thursday.md"
+            "file": "content/daily/2023-03-25-Saturday.md"
           }
         }
       }
@@ -134,9 +134,13 @@
   },
   "active": "7bf51a3ec4c5efb7",
   "lastOpenFiles": [
+    "content/attachments/0F38010C-86C9-43E1-99C4-F7BE3C8E7AEB.jpeg",
+    "content/daily/2023-03-24-Friday.md",
+    "content/daily/2023-03-25-Saturday.md",
+    "content/daily/2023-03-23-Thursday.md",
+    "0324量子ミーティング.pdf",
     "content/attachments/94132C9D-FBF6-4982-83B8-5A64BD83DC50.jpeg",
     "content/daily/2023-03-22-Wednesday.md",
-    "content/daily/2023-03-23-Thursday.md",
     "content/daily/2023-03-21-Tuesday.md",
     "content/attachments/4DC16666-D0BB-4764-B7F7-DC1F5E13D802.jpeg",
     "content/attachments/4084CF18-9CE7-4C88-934B-587FD28F746C.jpeg",
@@ -159,7 +163,6 @@
     "content/attachments/C1AAF6FA-C900-4339-A348-4EDFA7DB4936.jpeg",
     "content/attachments/4EC7775D-C4EF-470C-B389-DDE7B3FDF7CD.jpeg",
     "content/attachments/EE8CBD30-5D7D-4AB7-AA21-2A33A37CCE7A.jpeg",
-    "content/attachments/296E1D24-FE69-43A2-A438-682A633B3A64.jpeg",
     "content/notes/ラーメン.md",
     "README.md",
     "tags/daily.md",
@@ -176,9 +179,6 @@
     "assets/js/full-text-search.js",
     "layouts/partials/graph.html",
     "i18n/bn.toml",
-    "assets/js/util.js",
-    "assets/styles/base.scss",
-    "content/templates/post.md",
-    "content/notes/Quartz.md"
+    "assets/js/util.js"
   ]
 }
