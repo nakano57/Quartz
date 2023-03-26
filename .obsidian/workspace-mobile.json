@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/daily/2023-03-25-Saturday.md",
+                "file": "content/daily/2023-03-26-Sunday.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/daily/2023-03-25-Saturday.md",
+            "file": "content/daily/2023-03-26-Sunday.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "content/daily/2023-03-25-Saturday.md",
+            "file": "content/daily/2023-03-26-Sunday.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "content/daily/2023-03-25-Saturday.md"
+            "file": "content/daily/2023-03-26-Sunday.md"
           }
         }
       }
@@ -134,9 +134,12 @@
   },
   "active": "7bf51a3ec4c5efb7",
   "lastOpenFiles": [
+    "content/attachments/19D517E0-8857-4B65-A26E-34D5BBD008AC.jpeg",
+    "content/notes/ラーメン.md",
+    "content/notes/チャーハン.md",
+    "content/daily/2023-03-25-Saturday.md",
     "content/attachments/0F38010C-86C9-43E1-99C4-F7BE3C8E7AEB.jpeg",
     "content/daily/2023-03-24-Friday.md",
-    "content/daily/2023-03-25-Saturday.md",
     "content/daily/2023-03-23-Thursday.md",
     "0324量子ミーティング.pdf",
     "content/attachments/94132C9D-FBF6-4982-83B8-5A64BD83DC50.jpeg",
@@ -162,8 +165,6 @@
     "content/daily/2023-03-13-Monday.md",
     "content/attachments/C1AAF6FA-C900-4339-A348-4EDFA7DB4936.jpeg",
     "content/attachments/4EC7775D-C4EF-470C-B389-DDE7B3FDF7CD.jpeg",
-    "content/attachments/EE8CBD30-5D7D-4AB7-AA21-2A33A37CCE7A.jpeg",
-    "content/notes/ラーメン.md",
     "README.md",
     "tags/daily.md",
     "content/_index.md",
@@ -172,7 +173,6 @@
     "content/daily/2023-03-08-Wednesday.md",
     "content/templates/daily.md",
     "LICENSE.txt",
-    "CODE_OF_CONDUCT.md",
     "assets/styles/_dark_syntax.scss",
     "layouts/_default/baseof.html",
     "layouts/partials/darkmode.html",
