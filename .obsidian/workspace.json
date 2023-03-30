@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/daily/2023-03-28-Tuesday.md",
+                "file": "content/daily/2023-03-24-Friday.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/daily/2023-03-28-Tuesday.md",
+                "file": "content/daily/2023-03-24-Friday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/daily/2023-03-28-Tuesday.md",
+                "file": "content/daily/2023-03-24-Friday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/daily/2023-03-28-Tuesday.md"
+                "file": "content/daily/2023-03-24-Friday.md"
               }
             }
           }
@@ -149,10 +149,10 @@
   },
   "active": "dee6fcb3877a15f0",
   "lastOpenFiles": [
-    "content/attachments/EEE415FB-E905-412B-85BD-7D8B4113EB05.jpeg",
-    "0329ミーティング.pdf",
     "content/daily/2023-03-27-Monday.md",
     "content/daily/2023-03-28-Tuesday.md",
+    "content/attachments/EEE415FB-E905-412B-85BD-7D8B4113EB05.jpeg",
+    "0329ミーティング.pdf",
     "content/daily/2023-03-26-Sunday.md",
     "content/attachments/19D517E0-8857-4B65-A26E-34D5BBD008AC.jpeg",
     "content/daily/2023-03-25-Saturday.md",
@@ -188,7 +188,6 @@
     "content/templates/note.md",
     "content/templates/post.md",
     "content/attachments/DE0A0144-9D8A-46EF-9BA0-75953CEFA407_1_102_o.jpeg",
-    "content/attachments/DC9435B9-C723-46E0-B4CD-6A99208097CE.jpeg",
     "content/notes/attachments"
   ]
 }

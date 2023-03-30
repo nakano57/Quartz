@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/daily/2023-03-28-Tuesday.md",
+                "file": "content/daily/2023-03-30-Thursday.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/daily/2023-03-28-Tuesday.md",
+            "file": "content/daily/2023-03-30-Thursday.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "content/daily/2023-03-28-Tuesday.md",
+            "file": "content/daily/2023-03-30-Thursday.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "content/daily/2023-03-28-Tuesday.md"
+            "file": "content/daily/2023-03-30-Thursday.md"
           }
         }
       }
@@ -134,9 +134,13 @@
   },
   "active": "7bf51a3ec4c5efb7",
   "lastOpenFiles": [
+    "content/attachments/E940E96B-6AAE-4E1F-8C9B-94602EB4AC56.jpeg",
+    "content/daily/2023-03-29-Wednesday.md",
+    "content/daily/2023-03-30-Thursday.md",
+    "content/attachments/183A24A7-F1C9-478F-B2F3-ADE1C21B6630.jpeg",
+    "content/daily/2023-03-28-Tuesday.md",
     "content/attachments/EEE415FB-E905-412B-85BD-7D8B4113EB05.jpeg",
     "content/daily/2023-03-27-Monday.md",
-    "content/daily/2023-03-28-Tuesday.md",
     "0329ミーティング.pdf",
     "content/daily/2023-03-26-Sunday.md",
     "content/attachments/19D517E0-8857-4B65-A26E-34D5BBD008AC.jpeg",
@@ -159,7 +163,6 @@
     "content/daily/2023-03-18-Saturday.md",
     "content/attachments/8225402C-6C91-4BCE-9A10-2AFAD8EAE6CC.jpeg",
     "content/daily/2023-03-17-Friday.md",
-    "content/attachments/Pasted image 20230318005135.jpg",
     "content/daily/2023-03-16-Thursday.md",
     "content/notes/2023-03-15-Wednesday.md",
     "content/daily/2023-03-14-Tuesday.md",
@@ -168,10 +171,7 @@
     "content/daily/2023-03-11-Saturday.md",
     "content/daily/2023-03-12-Sunday.md",
     "content/daily/2023-03-13-Monday.md",
-    "content/attachments/C1AAF6FA-C900-4339-A348-4EDFA7DB4936.jpeg",
     "README.md",
-    "tags/daily.md",
-    "content/_index.md",
     "tags",
     "LICENSE.txt",
     "assets/styles/_dark_syntax.scss",
