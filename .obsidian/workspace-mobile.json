@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/daily/2023-03-30-Thursday.md",
+                "file": "content/daily/2023-03-31-Friday.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/daily/2023-03-30-Thursday.md",
+            "file": "content/daily/2023-03-31-Friday.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "content/daily/2023-03-30-Thursday.md",
+            "file": "content/daily/2023-03-31-Friday.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "content/daily/2023-03-30-Thursday.md"
+            "file": "content/daily/2023-03-31-Friday.md"
           }
         }
       }
@@ -134,9 +134,13 @@
   },
   "active": "7bf51a3ec4c5efb7",
   "lastOpenFiles": [
+    "content/attachments/7D07EFB9-FDF9-49B2-B81C-53A0B0EABA11.jpeg",
+    "content/attachments/79420FA9-9396-4579-9AC7-7899D5895B6B.jpeg",
+    "content/attachments/23B4CA9D-C727-41EC-A311-28BA96277590.jpeg",
+    "content/daily/2023-03-30-Thursday.md",
+    "content/daily/2023-03-31-Friday.md",
     "content/attachments/E940E96B-6AAE-4E1F-8C9B-94602EB4AC56.jpeg",
     "content/daily/2023-03-29-Wednesday.md",
-    "content/daily/2023-03-30-Thursday.md",
     "content/attachments/183A24A7-F1C9-478F-B2F3-ADE1C21B6630.jpeg",
     "content/daily/2023-03-28-Tuesday.md",
     "content/attachments/EEE415FB-E905-412B-85BD-7D8B4113EB05.jpeg",
@@ -157,11 +161,8 @@
     "content/attachments/4DC16666-D0BB-4764-B7F7-DC1F5E13D802.jpeg",
     "content/attachments/4084CF18-9CE7-4C88-934B-587FD28F746C.jpeg",
     "content/notes/2023-03-20-Monday.md",
-    "content/attachments/F3E06D8B-BEB1-493B-89B3-D9E90CBEE1B0.jpeg",
     "content/daily/2023-03-19-Sunday.md",
-    "content/attachments/7EEF3790-39E4-433E-9B60-CF5376925901.jpeg",
     "content/daily/2023-03-18-Saturday.md",
-    "content/attachments/8225402C-6C91-4BCE-9A10-2AFAD8EAE6CC.jpeg",
     "content/daily/2023-03-17-Friday.md",
     "content/daily/2023-03-16-Thursday.md",
     "content/notes/2023-03-15-Wednesday.md",
@@ -171,7 +172,6 @@
     "content/daily/2023-03-11-Saturday.md",
     "content/daily/2023-03-12-Sunday.md",
     "content/daily/2023-03-13-Monday.md",
-    "README.md",
     "tags",
     "LICENSE.txt",
     "assets/styles/_dark_syntax.scss",
