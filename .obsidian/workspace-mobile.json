@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/daily/2023-04-02-Sunday.md",
+                "file": "content/daily/2023-04-04-Tuesday.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/daily/2023-04-02-Sunday.md",
+            "file": "content/daily/2023-04-04-Tuesday.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "content/daily/2023-04-02-Sunday.md",
+            "file": "content/daily/2023-04-04-Tuesday.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "content/daily/2023-04-02-Sunday.md"
+            "file": "content/daily/2023-04-04-Tuesday.md"
           }
         }
       }
@@ -134,10 +134,13 @@
   },
   "active": "7bf51a3ec4c5efb7",
   "lastOpenFiles": [
+    "content/notes/Raspberry Piが欲しいの巻.md",
+    "content/daily/2023-04-04-Tuesday.md",
+    "content/daily/2023-04-03-Monday.md",
+    "content/daily/2023-04-02-Sunday.md",
     "content/attachments/B26FBA1C-1B03-4198-AC0F-51637A0B031A.jpeg",
     "content/attachments/2B853825-A917-4D46-B1F6-6083F0D65F18.jpeg",
     "content/daily/2023-04-01-Saturday.md",
-    "content/daily/2023-04-02-Sunday.md",
     "content/daily/2023-03-31-Friday.md",
     "content/attachments/7D07EFB9-FDF9-49B2-B81C-53A0B0EABA11.jpeg",
     "content/attachments/79420FA9-9396-4579-9AC7-7899D5895B6B.jpeg",
@@ -159,7 +162,6 @@
     "content/daily/2023-03-24-Friday.md",
     "content/daily/2023-03-23-Thursday.md",
     "0324量子ミーティング.pdf",
-    "content/attachments/94132C9D-FBF6-4982-83B8-5A64BD83DC50.jpeg",
     "content/daily/2023-03-22-Wednesday.md",
     "content/daily/2023-03-21-Tuesday.md",
     "content/notes/2023-03-20-Monday.md",
@@ -170,8 +172,6 @@
     "content/notes/2023-03-15-Wednesday.md",
     "content/daily/2023-03-14-Tuesday.md",
     "content/daily/2023-03-09-Thursday.md",
-    "content/daily/2023-03-10-Friday.md",
-    "content/daily/2023-03-11-Saturday.md",
     "tags",
     "LICENSE.txt",
     "assets/styles/_dark_syntax.scss",

@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/daily/2023-03-24-Friday.md",
+                "file": "content/daily/2023-04-03-Monday.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "02d5bca0a190814f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/daily/2023-04-03-Monday.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/daily/2023-03-24-Friday.md",
+                "file": "content/daily/2023-04-03-Monday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/daily/2023-03-24-Friday.md",
+                "file": "content/daily/2023-04-03-Monday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/daily/2023-03-24-Friday.md"
+                "file": "content/daily/2023-04-03-Monday.md"
               }
             }
           }
@@ -133,8 +146,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,8 +159,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "dee6fcb3877a15f0",
+  "active": "02d5bca0a190814f",
   "lastOpenFiles": [
+    "content/notes/Raspberry Piが欲しいの巻.md",
+    "content/daily/2023-04-03-Monday.md",
+    "content/daily/2023-04-02-Sunday.md",
+    "content/daily/2023-03-24-Friday.md",
     "content/daily/2023-03-27-Monday.md",
     "content/daily/2023-03-28-Tuesday.md",
     "content/attachments/EEE415FB-E905-412B-85BD-7D8B4113EB05.jpeg",
@@ -156,7 +172,6 @@
     "content/daily/2023-03-26-Sunday.md",
     "content/attachments/19D517E0-8857-4B65-A26E-34D5BBD008AC.jpeg",
     "content/daily/2023-03-25-Saturday.md",
-    "content/daily/2023-03-24-Friday.md",
     "content/attachments/0F38010C-86C9-43E1-99C4-F7BE3C8E7AEB.jpeg",
     "content/notes/ラーメン.md",
     "0324量子ミーティング.pdf",
@@ -185,8 +200,6 @@
     "content/daily/2023-03-09-Thursday.md",
     "Untitled.canvas",
     "screenshot.png",
-    "content/templates/note.md",
-    "content/templates/post.md",
     "content/attachments/DE0A0144-9D8A-46EF-9BA0-75953CEFA407_1_102_o.jpeg",
     "content/notes/attachments"
   ]
