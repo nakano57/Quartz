@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/daily/2023-04-04-Tuesday.md",
+                "file": "content/daily/2023-04-05-Wednesday.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/daily/2023-04-04-Tuesday.md",
+            "file": "content/daily/2023-04-05-Wednesday.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "content/daily/2023-04-04-Tuesday.md",
+            "file": "content/daily/2023-04-05-Wednesday.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "content/daily/2023-04-04-Tuesday.md"
+            "file": "content/daily/2023-04-05-Wednesday.md"
           }
         }
       }
@@ -134,8 +134,10 @@
   },
   "active": "7bf51a3ec4c5efb7",
   "lastOpenFiles": [
-    "content/notes/Raspberry Piが欲しいの巻.md",
+    "content/attachments/726C16AF-9E8A-4E34-9CA6-D193239AD8C5.jpeg",
     "content/daily/2023-04-04-Tuesday.md",
+    "content/daily/2023-04-05-Wednesday.md",
+    "content/notes/Raspberry Piが欲しいの巻.md",
     "content/daily/2023-04-03-Monday.md",
     "content/daily/2023-04-02-Sunday.md",
     "content/attachments/B26FBA1C-1B03-4198-AC0F-51637A0B031A.jpeg",
@@ -170,8 +172,6 @@
     "content/daily/2023-03-17-Friday.md",
     "content/daily/2023-03-16-Thursday.md",
     "content/notes/2023-03-15-Wednesday.md",
-    "content/daily/2023-03-14-Tuesday.md",
-    "content/daily/2023-03-09-Thursday.md",
     "tags",
     "LICENSE.txt",
     "assets/styles/_dark_syntax.scss",
