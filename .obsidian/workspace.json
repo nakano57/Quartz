@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/daily/2023-04-03-Monday.md",
+                "file": "content/notes/Raspberry Piが欲しいの巻.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/daily/2023-04-03-Monday.md",
+                "file": "content/notes/Raspberry Piが欲しいの巻.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/daily/2023-04-03-Monday.md",
+                "file": "content/notes/Raspberry Piが欲しいの巻.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/daily/2023-04-03-Monday.md"
+                "file": "content/notes/Raspberry Piが欲しいの巻.md"
               }
             }
           }
@@ -161,9 +161,12 @@
   },
   "active": "02d5bca0a190814f",
   "lastOpenFiles": [
+    "content/daily/2023-04-03-Monday.md",
+    "content/attachments/726C16AF-9E8A-4E34-9CA6-D193239AD8C5.jpeg",
+    "content/daily/2023-04-05-Wednesday.md",
+    "content/daily/2023-04-06-Thursday.md",
     "content/daily/2023-04-04-Tuesday.md",
     "content/notes/Raspberry Piが欲しいの巻.md",
-    "content/daily/2023-04-03-Monday.md",
     "content/daily/2023-04-02-Sunday.md",
     "content/daily/2023-03-24-Friday.md",
     "content/daily/2023-03-27-Monday.md",
@@ -192,15 +195,11 @@
     "content/daily/2023-03-13-Monday.md",
     "content/attachments/EE8CBD30-5D7D-4AB7-AA21-2A33A37CCE7A.jpeg",
     "content/daily/2023-03-12-Sunday.md",
-    "content/daily/2023-03-11-Saturday.md",
     "content/attachments/296E1D24-FE69-43A2-A438-682A633B3A64.jpeg",
-    "content/daily/2023-03-10-Friday.md",
-    "tags/daily.md",
     "tags",
     "content/attachments/D05D0044-BFE0-470B-A559-72E4012356CB.jpeg",
     "Untitled.canvas",
     "screenshot.png",
-    "content/attachments/DE0A0144-9D8A-46EF-9BA0-75953CEFA407_1_102_o.jpeg",
     "content/notes/attachments"
   ]
 }

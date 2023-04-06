@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/daily/2023-04-05-Wednesday.md",
+                "file": "content/daily/2023-04-06-Thursday.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/daily/2023-04-05-Wednesday.md",
+            "file": "content/daily/2023-04-06-Thursday.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "content/daily/2023-04-05-Wednesday.md",
+            "file": "content/daily/2023-04-06-Thursday.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "content/daily/2023-04-05-Wednesday.md"
+            "file": "content/daily/2023-04-06-Thursday.md"
           }
         }
       }
@@ -134,10 +134,13 @@
   },
   "active": "7bf51a3ec4c5efb7",
   "lastOpenFiles": [
-    "content/attachments/726C16AF-9E8A-4E34-9CA6-D193239AD8C5.jpeg",
+    "content/daily/2023-04-07-Friday.md",
+    "content/templates/daily.md",
+    "content/daily/2023-04-06-Thursday.md",
+    "content/notes/Raspberry Piが欲しいの巻.md",
     "content/daily/2023-04-04-Tuesday.md",
     "content/daily/2023-04-05-Wednesday.md",
-    "content/notes/Raspberry Piが欲しいの巻.md",
+    "content/attachments/726C16AF-9E8A-4E34-9CA6-D193239AD8C5.jpeg",
     "content/daily/2023-04-03-Monday.md",
     "content/daily/2023-04-02-Sunday.md",
     "content/attachments/B26FBA1C-1B03-4198-AC0F-51637A0B031A.jpeg",
@@ -160,7 +163,6 @@
     "content/notes/ラーメン.md",
     "content/notes/チャーハン.md",
     "content/daily/2023-03-25-Saturday.md",
-    "content/attachments/0F38010C-86C9-43E1-99C4-F7BE3C8E7AEB.jpeg",
     "content/daily/2023-03-24-Friday.md",
     "content/daily/2023-03-23-Thursday.md",
     "0324量子ミーティング.pdf",
@@ -170,8 +172,6 @@
     "content/daily/2023-03-19-Sunday.md",
     "content/daily/2023-03-18-Saturday.md",
     "content/daily/2023-03-17-Friday.md",
-    "content/daily/2023-03-16-Thursday.md",
-    "content/notes/2023-03-15-Wednesday.md",
     "tags",
     "LICENSE.txt",
     "assets/styles/_dark_syntax.scss",
