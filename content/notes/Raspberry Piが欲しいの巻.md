@@ -19,7 +19,7 @@ pibot
 **tailscale**
 **AltServer-Linux**
 
-## 2台目 8GB RAM SSD 500GB Server
+## 2台目 8GB RAM SSD 1TB Server
 結局中古のサーバーマシンを買った、Pi4高え
 
 [tipi](https://github.com/meienberger/runtipi)
