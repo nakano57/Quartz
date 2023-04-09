@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/daily/2023-04-08-Saturday.md",
+                "file": "content/notes/行きたい店.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/daily/2023-04-08-Saturday.md",
+            "file": "content/notes/行きたい店.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "content/daily/2023-04-08-Saturday.md",
+            "file": "content/notes/行きたい店.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "content/daily/2023-04-08-Saturday.md"
+            "file": "content/notes/行きたい店.md"
           }
         }
       }
@@ -134,9 +134,12 @@
   },
   "active": "7bf51a3ec4c5efb7",
   "lastOpenFiles": [
+    "content/daily/2023-04-09-Sunday.md",
+    "content/notes/行きたい店.md",
+    "Untitled.canvas",
+    "content/daily/2023-04-08-Saturday.md",
     "content/attachments/E4AF6A70-40AE-49FF-9BD2-B052C4C2E171.jpeg",
     "content/daily/2023-04-07-Friday.md",
-    "content/daily/2023-04-08-Saturday.md",
     "content/notes/ラーメン.md",
     "content/notes/Raspberry Piが欲しいの巻.md",
     "content/daily/2023-04-06-Thursday.md",
@@ -162,7 +165,6 @@
     "content/daily/2023-03-27-Monday.md",
     "0329ミーティング.pdf",
     "content/daily/2023-03-26-Sunday.md",
-    "content/attachments/19D517E0-8857-4B65-A26E-34D5BBD008AC.jpeg",
     "content/notes/チャーハン.md",
     "content/daily/2023-03-25-Saturday.md",
     "content/daily/2023-03-24-Friday.md",
@@ -170,8 +172,6 @@
     "0324量子ミーティング.pdf",
     "content/daily/2023-03-22-Wednesday.md",
     "content/daily/2023-03-21-Tuesday.md",
-    "content/notes/2023-03-20-Monday.md",
-    "content/daily/2023-03-19-Sunday.md",
     "tags",
     "LICENSE.txt",
     "assets/styles/_dark_syntax.scss",
