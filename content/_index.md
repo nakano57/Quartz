@@ -3,7 +3,7 @@ title: milk to coffee
 enableToc: false
 ---
 
-初めまして、あなたは誰？[[notes/About me]].
+初めまして、あなたは誰？[[note/About me]].
 
 [Notes](/tags/notes)
 

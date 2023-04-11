@@ -12,4 +12,4 @@ tags:
 
 ![[../attachments/DE0A0144-9D8A-46EF-9BA0-75953CEFA407_1_102_o.jpeg]]
 
-[[../notes/Test-Note]]
+[[../note/Test-Note]]
