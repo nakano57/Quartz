@@ -3,7 +3,7 @@ title: "Obsidianとquartzで日記兼ノートまとめページをGithub Pages�
 created: 2023-04-11 21:52
 tags:
 - post
-- notes
+- note
 - howto
 ---
 

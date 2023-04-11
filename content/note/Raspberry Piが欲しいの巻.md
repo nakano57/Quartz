@@ -4,7 +4,7 @@ title: "Raspberry Piが欲しいの巻"
 created: 2023-04-03 11:21
 tags:
 - post
-- notes
+- note
 ---
 
 # 構成を考えよう
