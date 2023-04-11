@@ -1,5 +1,6 @@
 baseURL = "https://milkto.coffee/"
 languageCode = "ja-jp"
+defaultContentLanguage = "ja"
 relativeURLs = false
 disablePathToLower = true
 ignoreFiles = [
