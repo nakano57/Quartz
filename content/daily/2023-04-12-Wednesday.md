@@ -8,8 +8,8 @@ tags:
 
 << [[2023-04-11-Tuesday|Yesterday]] | [All Daily notes](/tags/daily) | [[2023-04-13-Thursday|Tomorrow]] >>
 
-☁️厚い雲☁️
-最高: 17℃ / 最低: 15℃
+☁️厚い雲☁️  
+最高: 17℃ / 最低: 15℃  
 いまこれを書いている時: 16℃
 
 ## 今日やること
