@@ -12,10 +12,7 @@
         {{with .Params.description}}
             <p>{{.}}</p>
         {{end}}
-      <!--  {{partial "page-list.html" (.Pages.ByLastmod.Reverse).Paginator.Pages}}-->
-        {{ range  (.Paginate ( partial "page-list.html" .Pages.ByLastmod.Reverse )).Pages }}
-          {{.}}
-        {{end}}
+        {{partial "page-list.html" (.Paginate (.Pages.ByLastmod.Reverse) ).Pages}}
         {{ template "_internal/pagination.html" . }}
     </article>
     {{partial "contact.html" .}}
