@@ -10,6 +10,7 @@ enableSPA: true
 enableFooter: true
 enableContextualBacklinks: true
 enableRecentNotes: true
+enableGitInfo: true
 enableGitHubEdit: true
 enableMermaid: true
 GitHubLink: https://github.com/nakano57/quartz/tree/hugo/content
