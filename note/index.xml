@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Notes on</title><link>https://milkto.coffee/note/</link><description>Recent content in Notes on</description><generator>Hugo -- gohugo.io</generator><language>ja-jp</language><atom:link href="https://milkto.coffee/note/index.xml" rel="self" type="application/rss+xml"/><item><title>About me</title><link>https://milkto.coffee/note/About-me/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://milkto.coffee/note/About-me/</guid><description>Born in Hokkaido, Student</description></item><item><title>Obsidianとquartzで日記兼ノートまとめページをGithub Pagesに作った話</title><link>https://milkto.coffee/note/Obsidian%E3%81%A8quartz%E3%81%A7%E6%97%A5%E8%A8%98%E5%85%BC%E3%83%8E%E3%83%BC%E3%83%88%E3%81%BE%E3%81%A8%E3%82%81%E3%83%9A%E3%83%BC%E3%82%B8%E3%82%92Github-Pages%E3%81%AB%E4%BD%9C%E3%81%A3%E3%81%9F%E8%A9%B1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://milkto.coffee/note/Obsidian%E3%81%A8quartz%E3%81%A7%E6%97%A5%E8%A8%98%E5%85%BC%E3%83%8E%E3%83%BC%E3%83%88%E3%81%BE%E3%81%A8%E3%82%81%E3%83%9A%E3%83%BC%E3%82%B8%E3%82%92Github-Pages%E3%81%AB%E4%BD%9C%E3%81%A3%E3%81%9F%E8%A9%B1/</guid><description>要はこのサイトの作り方 といっても jackyzha0/quartz: 🌱 host your own second brain and digital garden for free をUse Templateしたら大体完成する。
+なぜQuartzにしたのかというと他のやつだとWiki感が出過ぎてしまうから、ちょっと日記寄りにしたかった。あと後述のattachmentsとかの設定でうまくいかなかった
+config.tomlやらdata/config.yamlをいじくり回す。まだまだ知らない機能しかない
+ObsidianでVaultとして開くときはリポジトリのルートフォルダにする。
+![[../attachments/スクリーンショット 2023-04-11 22.</description></item><item><title>Quartz</title><link>https://milkto.coffee/note/Quartz/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://milkto.coffee/note/Quartz/</guid><description>謎い
+$$
+H=H_A+H_B=A\left(\sum_{v \in V} s_v\right)^2+B \sum_{(u v) \in E} \frac{1-s_u s_v}{2}
+$$</description></item><item><title>Raspberry Piが欲しいの巻</title><link>https://milkto.coffee/note/Raspberry-Pi%E3%81%8C%E6%AC%B2%E3%81%97%E3%81%84%E3%81%AE%E5%B7%BB/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://milkto.coffee/note/Raspberry-Pi%E3%81%8C%E6%AC%B2%E3%81%97%E3%81%84%E3%81%AE%E5%B7%BB/</guid><description>構成を考えよう 1台目 2GBRAM USB Memory 64GB Pi4 NAS
+EPGStation
+homebridge
+pibot
+Adguard DNS
+tailscale(Exit)
+AltServer-Linux
+なんかモニターとか生やしたりバッテリーとか生やしたりキーボードとか生やしたりして遊ぼう
+持ち運びできるAltServer-Linuxにしよう
+2台目 8GB RAM SSD 1TB HDD 6TB Server 結局中古のサーバーマシンを買った、Pi4高え</description></item><item><title>Test-Note</title><link>https://milkto.coffee/note/Test-Note/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://milkto.coffee/note/Test-Note/</guid><description>相対パスのテスト
+[[../daily/2023-03-08-Wednesday]]
+↑
+これはOK
+画像は？
+→みれた
+![[../attachments/DC9435B9-C723-46E0-B4CD-6A99208097CE.jpeg]]</description></item><item><title>チャーハン</title><link>https://milkto.coffee/note/%E3%83%81%E3%83%A3%E3%83%BC%E3%83%8F%E3%83%B3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://milkto.coffee/note/%E3%83%81%E3%83%A3%E3%83%BC%E3%83%8F%E3%83%B3/</guid><description>天一軒 （テンイチケン） - 三宮（神戸新交通）/中華料理 | 食べログ
+営業は夜のみ
+水曜休み
+唐子 （カラコ） - 三ノ宮（ＪＲ）/中華料理 | 食べログ
+昼夜営業
+土日祝休み
+水餃子も美味しそう
+点勝園 - 和田岬/中華料理 | 食べログ</description></item><item><title>ラーメン</title><link>https://milkto.coffee/note/%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://milkto.coffee/note/%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3/</guid><description>麺家 よし川 - 心斎橋/ラーメン | 食べログ
+家系ラーメン
+博多とんこつ 天神旗 （てんじんき） - 上新庄/ラーメン | 食べログ
+近くにアサヒビールのなんかがあるからそこと合わせて行きたい店
+行った、しぇからしかよりどろっとしてるけど無鉄砲ほどではない、中間。美味しい
+【ネット受付可】晴耕雨読 [宇治市/宇治駅(JR)]｜口コミ・評判 - EPARK</description></item><item><title>行きたい店</title><link>https://milkto.coffee/note/%E8%A1%8C%E3%81%8D%E3%81%9F%E3%81%84%E5%BA%97/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://milkto.coffee/note/%E8%A1%8C%E3%81%8D%E3%81%9F%E3%81%84%E5%BA%97/</guid><description>本場の味が日本人にもハマる！ニューメキシコ料理　ニューメキシコ料理専門店『KJ’ｓ Kitchen』に行ってきました　西宮市 | Kiss PRESS(キッスプレス)</description></item></channel></rss>
