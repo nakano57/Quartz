@@ -28,3 +28,7 @@ links:
     link: https://twitter.com/hiro2do
   - link_name: GitHub
     link: https://github.com/nakano57
+frontmatter:
+  lastmod:
+    - lastmod
+    - :git
