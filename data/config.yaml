@@ -30,5 +30,6 @@ links:
     link: https://github.com/nakano57
 frontmatter:
   lastmod:
-    - lastmod
     - :git
+    - lastmod
+    
