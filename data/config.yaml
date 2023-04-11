@@ -10,7 +10,6 @@ enableSPA: true
 enableFooter: true
 enableContextualBacklinks: true
 enableRecentNotes: true
-enableGitInfo: true
 enableGitHubEdit: true
 enableMermaid: true
 GitHubLink: https://github.com/nakano57/quartz/tree/hugo/content
@@ -28,8 +27,3 @@ links:
     link: https://twitter.com/hiro2do
   - link_name: GitHub
     link: https://github.com/nakano57
-frontmatter:
-  lastmod:
-    - :git
-    - lastmod
-    
