@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/note/ここは？.md",
+                "file": "content/note/Safe.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/note/ここは？.md",
+            "file": "content/note/Safe.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "content/note/ここは？.md",
+            "file": "content/note/Safe.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "content/note/ここは？.md"
+            "file": "content/note/Safe.md"
           }
         }
       }
@@ -135,10 +135,11 @@
   },
   "active": "7bf51a3ec4c5efb7",
   "lastOpenFiles": [
+    "/config.toml",
     "content/_index.md",
     "tags/note.md",
     "tags",
-    "content/note/ここは？.md",
+    "content/note/Safe.md",
     "content/note/Quartz.md",
     "content/note/Obsidianとquartzで日記兼ノートまとめページをGithub Pagesに作った話.md",
     "content/note/行きたい店.md",
@@ -151,7 +152,6 @@
     "content/templates/note.md",
     "Unko.md",
     "content/daily/2023-04-12-Wednesday.md",
-    "/config.toml",
     "content/daily/2023-04-09-Sunday.md",
     "content/daily/2023-04-10-Monday.md",
     "content/daily/2023-04-11-Tuesday.md",
@@ -166,7 +166,6 @@
     "content/attachments/Pasted image 20230411215536.png",
     "content/attachments/スクリーンショット 2023-04-11 22.03.51.png",
     "Untitled.canvas",
-    "content/daily/2023-04-08-Saturday.md",
     "content/attachments/E4AF6A70-40AE-49FF-9BD2-B052C4C2E171.jpeg",
     "content/attachments/726C16AF-9E8A-4E34-9CA6-D193239AD8C5.jpeg",
     "content/attachments/B26FBA1C-1B03-4198-AC0F-51637A0B031A.jpeg",
