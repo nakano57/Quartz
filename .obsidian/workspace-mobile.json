@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/Raspberry Piが欲しいの巻.md",
+                "file": "content/daily/2023-04-12-Wednesday.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/notes/Raspberry Piが欲しいの巻.md",
+            "file": "content/daily/2023-04-12-Wednesday.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "content/notes/Raspberry Piが欲しいの巻.md",
+            "file": "content/daily/2023-04-12-Wednesday.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "content/notes/Raspberry Piが欲しいの巻.md"
+            "file": "content/daily/2023-04-12-Wednesday.md"
           }
         }
       }
@@ -129,13 +129,29 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "open-weather:OpenWeather": false
     }
   },
   "active": "7bf51a3ec4c5efb7",
   "lastOpenFiles": [
+    "/layouts/_default/term.html",
+    "/config.toml",
+    "content/daily/2023-04-12-Wednesday.md",
+    "content/templates/daily.md",
+    "content/notes/<% fileDate = moment(tp.file.title, 'YYYY-MM-DD-dddd').add(1, 'd').format('YYYY-MM-DD-dddd') %>.md",
+    "content/_index.md",
+    "content/templates/post.md",
+    "content/templates/note.md",
     "content/daily/2023-04-11-Tuesday.md",
+    "content/notes/Lasmod.md",
+    "content/notes/Test-Note.md",
+    "content/notes/Test.md",
+    "content/notes/Obsidianとquartzで日記兼ノートまとめページをGithub Pagesに作った話.md",
+    "content/daily/2023-03-08-Wednesday.md",
     "content/notes/Raspberry Piが欲しいの巻.md",
+    "content/attachments/Pasted image 20230411215536.png",
+    "content/attachments/スクリーンショット 2023-04-11 22.03.51.png",
     "content/daily/2023-04-10-Monday.md",
     "Untitled.canvas",
     "content/notes/行きたい店.md",
@@ -145,7 +161,6 @@
     "content/daily/2023-04-07-Friday.md",
     "content/notes/ラーメン.md",
     "content/daily/2023-04-06-Thursday.md",
-    "content/templates/daily.md",
     "content/daily/2023-04-04-Tuesday.md",
     "content/daily/2023-04-05-Wednesday.md",
     "content/attachments/726C16AF-9E8A-4E34-9CA6-D193239AD8C5.jpeg",
@@ -154,32 +169,18 @@
     "content/attachments/B26FBA1C-1B03-4198-AC0F-51637A0B031A.jpeg",
     "content/attachments/2B853825-A917-4D46-B1F6-6083F0D65F18.jpeg",
     "content/daily/2023-04-01-Saturday.md",
-    "content/daily/2023-03-31-Friday.md",
     "content/attachments/7D07EFB9-FDF9-49B2-B81C-53A0B0EABA11.jpeg",
     "content/attachments/79420FA9-9396-4579-9AC7-7899D5895B6B.jpeg",
     "content/attachments/23B4CA9D-C727-41EC-A311-28BA96277590.jpeg",
-    "content/daily/2023-03-30-Thursday.md",
     "content/attachments/E940E96B-6AAE-4E1F-8C9B-94602EB4AC56.jpeg",
-    "content/daily/2023-03-29-Wednesday.md",
-    "content/attachments/183A24A7-F1C9-478F-B2F3-ADE1C21B6630.jpeg",
-    "content/daily/2023-03-28-Tuesday.md",
-    "content/attachments/EEE415FB-E905-412B-85BD-7D8B4113EB05.jpeg",
-    "content/daily/2023-03-27-Monday.md",
     "0329ミーティング.pdf",
-    "content/daily/2023-03-26-Sunday.md",
-    "content/notes/チャーハン.md",
-    "content/daily/2023-03-25-Saturday.md",
-    "content/daily/2023-03-24-Friday.md",
-    "content/daily/2023-03-23-Thursday.md",
     "0324量子ミーティング.pdf",
-    "content/daily/2023-03-22-Wednesday.md",
     "tags",
     "LICENSE.txt",
     "assets/styles/_dark_syntax.scss",
     "layouts/_default/baseof.html",
     "layouts/partials/darkmode.html",
     "assets/js/full-text-search.js",
-    "layouts/partials/graph.html",
-    "i18n/bn.toml"
+    "layouts/partials/graph.html"
   ]
 }

@@ -1,0 +1,14 @@
+{
+  "location": "Osaka, JP",
+  "key": "b68dddfa57a26c6ab39c95030bc71bc4",
+  "units": "metric",
+  "language": "ja",
+  "excludeFolder": "templates",
+  "weatherFormat1": "%desc-em%%desc%%desc-em%\n最高: %tempmax%℃ / 最低: %tempmin%℃\nいまこれを書いている時: %temp%℃",
+  "weatherFormat2": "%name%: %dateMonth4% %dateDay2% - %timeH2%:%timeM% %ampm1%\nCurrent Temp: %temp%°C • Feels Like: %feels%°C\nWind: %wind-speed% km/h from the %wind-dir%^ with gusts up to %wind-gust% km/h^\nSunrise: %sunrise% • Sunset: %sunset%\n",
+  "weatherFormat3": "%icon%&nbsp;%dateMonth4% %dateDay2% %dateYear1% • %timeH2%:%timeM% %ampm1% • %desc%<br>&nbsp;Recorded Temp: %temp% • Felt like: %feels%<br>&nbsp;Wind: %wind-speed% km/h from the %wind-dir%^ with gusts up to %wind-gust% km/h^<br>&nbsp;Sunrise: %sunrise% • Sunset: %sunset%",
+  "weatherFormat4": "%icon%&nbsp;%dateMonth4% %dateDay2% %dateYear1% • %timeH2%:%timeM% %ampm1% • %desc%<br>&nbsp;Current Temp: %temp% • Feels like: %feels%<br>&nbsp;Wind: %wind-speed% km/h from the %wind-dir%^ with gusts up to %wind-gust% km/h^<br>&nbsp;Sunrise: %sunrise% • Sunset: %sunset%",
+  "statusbarActive": false,
+  "weatherFormatSB": " | %desc% | Current Temp: %temp%°C | Feels Like: %feels%°C | ",
+  "statusbarUpdateFreq": "15"
+}
