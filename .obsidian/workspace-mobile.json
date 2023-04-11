@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/note/eng.md",
+                "file": "content/note/スラッグのテスト.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/note/eng.md",
+            "file": "content/note/スラッグのテスト.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "content/note/eng.md",
+            "file": "content/note/スラッグのテスト.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "content/note/eng.md"
+            "file": "content/note/スラッグのテスト.md"
           }
         }
       }
@@ -130,16 +130,19 @@
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
-      "open-weather:OpenWeather": false
+      "open-weather:OpenWeather": false,
+      "translate:Open translation view": false
     }
   },
   "active": "7bf51a3ec4c5efb7",
   "lastOpenFiles": [
+    "content/note/eng.md",
+    "content/note/スラッグのテスト.md",
+    "content/templates/note.md",
     "/config.toml",
     "content/_index.md",
     "tags/note.md",
     "tags",
-    "content/note/eng.md",
     "content/note/Quartz.md",
     "content/note/Obsidianとquartzで日記兼ノートまとめページをGithub Pagesに作った話.md",
     "content/note/行きたい店.md",
@@ -149,7 +152,6 @@
     "content/note/Test-Note.md",
     "content/note/Raspberry Piが欲しいの巻.md",
     "content/note/About me.md",
-    "content/templates/note.md",
     "Unko.md",
     "content/daily/2023-04-12-Wednesday.md",
     "content/daily/2023-04-09-Sunday.md",
