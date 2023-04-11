@@ -10,7 +10,7 @@
             </div>
             <div class="spacer"></div>
             <ul class="tags">
-                {{ range (.GetTerms "tags") }}
+                {{ range (.GetTerms "tags").ByDate.Reverse }}
                 <li><a href="{{ .Permalink }}">{{ .LinkTitle | title}}</a></li>
                 {{ end }}
             </ul>
