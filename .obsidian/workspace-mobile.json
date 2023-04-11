@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/note/ここは？.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/_index.md",
+            "file": "content/note/ここは？.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "content/_index.md",
+            "file": "content/note/ここは？.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "content/_index.md"
+            "file": "content/note/ここは？.md"
           }
         }
       }
@@ -133,12 +133,12 @@
       "open-weather:OpenWeather": false
     }
   },
-  "active": "4d8ec6b6e4da7bd1",
+  "active": "7bf51a3ec4c5efb7",
   "lastOpenFiles": [
-    "tags/note.md",
     "content/_index.md",
+    "tags/note.md",
     "tags",
-    "content/note/Moshika site Nihongo Dame.md",
+    "content/note/ここは？.md",
     "content/note/Quartz.md",
     "content/note/Obsidianとquartzで日記兼ノートまとめページをGithub Pagesに作った話.md",
     "content/note/行きたい店.md",

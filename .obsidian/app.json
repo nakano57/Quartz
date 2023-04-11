@@ -1,7 +1,7 @@
 {
   "newLinkFormat": "relative",
   "newFileLocation": "folder",
-  "newFileFolderPath": "content/notes",
+  "newFileFolderPath": "content/note",
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "content/attachments",
   "promptDelete": false
