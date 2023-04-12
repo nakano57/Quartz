@@ -1,7 +1,7 @@
 ---
 title: "<% tp.file.title %>"
 slug: "<% tp.file.title %>"
-created: <% tp.file.creation_date() %>
+date: <% tp.file.creation_date() %>
 tags:
 - post
 - note
