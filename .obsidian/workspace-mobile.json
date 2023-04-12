@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/note/スラッグのテスト.md",
+                "file": "content/daily/2023-04-12-Wednesday.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/note/スラッグのテスト.md",
+            "file": "content/daily/2023-04-12-Wednesday.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "content/note/スラッグのテスト.md",
+            "file": "content/daily/2023-04-12-Wednesday.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "content/note/スラッグのテスト.md"
+            "file": "content/daily/2023-04-12-Wednesday.md"
           }
         }
       }
@@ -137,6 +137,8 @@
   "active": "7bf51a3ec4c5efb7",
   "lastOpenFiles": [
     "content/templates/note.md",
+    "content/daily/2023-04-12-Wednesday.md",
+    "content/note/Test-Note.md",
     "content/note/スラッグのテスト.md",
     "content/note/Obsidianとquartzで日記兼ノートまとめページをGithub Pagesに作った話.md",
     "content/note/eng.md",
@@ -149,11 +151,9 @@
     "content/daily/2023-03-10-Friday.md",
     "content/note/ラーメン.md",
     "content/note/チャーハン.md",
-    "content/note/Test-Note.md",
     "content/note/Raspberry Piが欲しいの巻.md",
     "content/note/About me.md",
     "Unko.md",
-    "content/daily/2023-04-12-Wednesday.md",
     "content/daily/2023-04-09-Sunday.md",
     "content/daily/2023-04-10-Monday.md",
     "content/daily/2023-04-11-Tuesday.md",

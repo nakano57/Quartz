@@ -18,6 +18,14 @@ tags:
 
 天気
 
-Lastmodは相変わらず謎
+Lastmodは相変わらず謎、ファイル名が日本語だとダメとにかく
+
+[これ](https://spisignal.jp/2023/02/01/use-obsidian-templater-01/)
+[とこれでslug](https://qiita.com/economist/items/768d2f6a10d54d4fa39f)
+
+HDDからデータ救出、できるかなー
+無理そうならサクッと諦めてフォーマット
+
+AdGuard Homeが動かない、tipiのせいかな？Docker版を試してみよう
 
 ## ふりかえり
