@@ -16,8 +16,6 @@ tags:
 
 ちゃんと起きよ
 
-天気
-
 Lastmodは相変わらず謎、ファイル名が日本語だとダメとにかく
 
 [これ](https://spisignal.jp/2023/02/01/use-obsidian-templater-01/)
@@ -28,4 +26,10 @@ HDDからデータ救出、できるかなー
 
 AdGuard Homeが動かない、tipiのせいかな？Docker版を試してみよう
 
+イノベのやつ
+
+Mathjax 
+
 ## ふりかえり
+
+何もしてないけどねるお
