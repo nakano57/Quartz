@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/daily/2023-04-12-Wednesday.md",
+                "file": "content/daily/2023-04-13-Thursday.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/daily/2023-04-12-Wednesday.md",
+            "file": "content/daily/2023-04-13-Thursday.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "content/daily/2023-04-12-Wednesday.md",
+            "file": "content/daily/2023-04-13-Thursday.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "content/daily/2023-04-12-Wednesday.md"
+            "file": "content/daily/2023-04-13-Thursday.md"
           }
         }
       }
@@ -136,8 +136,9 @@
   },
   "active": "7bf51a3ec4c5efb7",
   "lastOpenFiles": [
-    "content/note/Obsidianとquartzで日記兼ノートまとめページをGithub Pagesに作った話.md",
     "content/daily/2023-04-12-Wednesday.md",
+    "content/daily/2023-04-13-Thursday.md",
+    "content/note/Obsidianとquartzで日記兼ノートまとめページをGithub Pagesに作った話.md",
     "content/templates/note.md",
     "content/note/Test-Note.md",
     "content/note/スラッグのテスト.md",
@@ -164,7 +165,6 @@
     "content/templates/post.md",
     "content/notes/Lasmod.md",
     "content/notes/Test.md",
-    "content/daily/2023-03-08-Wednesday.md",
     "content/attachments/Pasted image 20230411215536.png",
     "content/attachments/スクリーンショット 2023-04-11 22.03.51.png",
     "Untitled.canvas",
