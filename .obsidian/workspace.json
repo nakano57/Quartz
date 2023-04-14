@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/daily/2023-04-11-Tuesday.md",
+                "file": "content/templates/note.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/daily/2023-04-11-Tuesday.md",
+                "file": "content/templates/note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/daily/2023-04-11-Tuesday.md",
+                "file": "content/templates/note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/daily/2023-04-11-Tuesday.md"
+                "file": "content/templates/note.md"
               }
             }
           }
@@ -150,6 +150,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "open-weather:OpenWeather": false,
+      "translate:Open translation view": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -161,6 +163,8 @@
   },
   "active": "02d5bca0a190814f",
   "lastOpenFiles": [
+    "content/templates/daily.md",
+    "content/daily/2023-04-11-Tuesday.md",
     "content/note/スラッグのテスト.md",
     "content/note/Untitled.md",
     "tags/note.md",
@@ -186,11 +190,9 @@
     "content/notes/Test.md",
     "content/attachments/スクリーンショット 2023-04-11 22.03.51.png",
     "content/notes/Raspberry Piが欲しいの巻.md",
-    "content/templates/daily.md",
     "content/templates/note.md",
     "content/templates/post.md",
     "content/attachments/Pasted image 20230411215536.png",
-    "content/daily/2023-04-11-Tuesday.md",
     "content/attachments/E4AF6A70-40AE-49FF-9BD2-B052C4C2E171.jpeg",
     "content/attachments/726C16AF-9E8A-4E34-9CA6-D193239AD8C5.jpeg",
     "content/attachments/EEE415FB-E905-412B-85BD-7D8B4113EB05.jpeg",

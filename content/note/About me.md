@@ -5,4 +5,4 @@ tags:
 - post
 ---
 
-Born in Hokkaido, Student
+Born in Hokkaido, Student, and Computer cowboy.
