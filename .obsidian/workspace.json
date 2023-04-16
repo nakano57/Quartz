@@ -163,6 +163,8 @@
   },
   "active": "02d5bca0a190814f",
   "lastOpenFiles": [
+    "content/attachments/21E8E18C-F8D3-4AF7-8A92-28D4DFE5A879.jpeg",
+    "content/daily/2023-04-16-Sunday.md",
     "content/note/eng.md",
     "content/templates/note.md",
     "content/daily/2023-04-15-Saturday.md",
@@ -189,8 +191,6 @@
     "content/daily/2023-04-12-Wednesday.md",
     "content/notes/<% fileDate = moment(tp.file.title, 'YYYY-MM-DD-dddd').add(1, 'd').format('YYYY-MM-DD-dddd') %>.md",
     "content/notes/Lasmod.md",
-    "content/notes/Untitled.md",
-    "content/notes/Test.md",
     "content/attachments/スクリーンショット 2023-04-11 22.03.51.png",
     "content/attachments/Pasted image 20230411215536.png",
     "content/attachments/E4AF6A70-40AE-49FF-9BD2-B052C4C2E171.jpeg",
