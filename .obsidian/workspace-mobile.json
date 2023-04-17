@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/daily/2023-04-16-Sunday.md",
+                "file": "content/daily/2023-04-17-Monday.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/daily/2023-04-16-Sunday.md",
+            "file": "content/daily/2023-04-17-Monday.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "content/daily/2023-04-16-Sunday.md",
+            "file": "content/daily/2023-04-17-Monday.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "content/daily/2023-04-16-Sunday.md"
+            "file": "content/daily/2023-04-17-Monday.md"
           }
         }
       }
@@ -136,9 +136,10 @@
   },
   "active": "7bf51a3ec4c5efb7",
   "lastOpenFiles": [
-    "content/attachments/21E8E18C-F8D3-4AF7-8A92-28D4DFE5A879.jpeg",
-    "content/daily/2023-04-15-Saturday.md",
     "content/daily/2023-04-16-Sunday.md",
+    "content/daily/2023-04-17-Monday.md",
+    "content/daily/2023-04-15-Saturday.md",
+    "content/attachments/21E8E18C-F8D3-4AF7-8A92-28D4DFE5A879.jpeg",
     "content/templates/daily.md",
     "content/daily/2023-04-14-Friday.md",
     "content/note/About me.md",
@@ -175,7 +176,6 @@
     "content/attachments/7D07EFB9-FDF9-49B2-B81C-53A0B0EABA11.jpeg",
     "content/attachments/79420FA9-9396-4579-9AC7-7899D5895B6B.jpeg",
     "content/attachments/23B4CA9D-C727-41EC-A311-28BA96277590.jpeg",
-    "content/attachments/E940E96B-6AAE-4E1F-8C9B-94602EB4AC56.jpeg",
     "0329ミーティング.pdf",
     "0324量子ミーティング.pdf",
     "LICENSE.txt",
