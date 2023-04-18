@@ -163,6 +163,8 @@
   },
   "active": "02d5bca0a190814f",
   "lastOpenFiles": [
+    "content/daily/2023-04-18-Tuesday.md",
+    "content/note/2023-04-18-Tuesday.md",
     "content/attachments/FFC3D0A8-9965-4036-82C5-A00B92CA3639.jpeg",
     "content/daily/2023-04-17-Monday.md",
     "content/attachments/21E8E18C-F8D3-4AF7-8A92-28D4DFE5A879.jpeg",
@@ -191,7 +193,6 @@
     "content/note",
     "tags/daily.md",
     "content/daily/2023-04-12-Wednesday.md",
-    "content/notes/<% fileDate = moment(tp.file.title, 'YYYY-MM-DD-dddd').add(1, 'd').format('YYYY-MM-DD-dddd') %>.md",
     "content/attachments/スクリーンショット 2023-04-11 22.03.51.png",
     "content/attachments/Pasted image 20230411215536.png",
     "content/attachments/E4AF6A70-40AE-49FF-9BD2-B052C4C2E171.jpeg",
@@ -202,7 +203,6 @@
     "content/attachments/0F38010C-86C9-43E1-99C4-F7BE3C8E7AEB.jpeg",
     "0324量子ミーティング.pdf",
     "content/attachments/94132C9D-FBF6-4982-83B8-5A64BD83DC50.jpeg",
-    "content/attachments/4EC7775D-C4EF-470C-B389-DDE7B3FDF7CD.jpeg",
     "Untitled.canvas",
     "content/notes/attachments"
   ]
