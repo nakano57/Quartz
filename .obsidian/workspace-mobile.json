@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/daily/2023-04-18-Tuesday.md",
+                "file": "content/daily/2023-04-19-Wednesday.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/daily/2023-04-18-Tuesday.md",
+            "file": "content/daily/2023-04-19-Wednesday.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "content/daily/2023-04-18-Tuesday.md",
+            "file": "content/daily/2023-04-19-Wednesday.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "content/daily/2023-04-18-Tuesday.md"
+            "file": "content/daily/2023-04-19-Wednesday.md"
           }
         }
       }
@@ -136,6 +136,8 @@
   },
   "active": "7bf51a3ec4c5efb7",
   "lastOpenFiles": [
+    "content/note/Obsidianとquartzで日記兼ノートまとめページをGithub Pagesに作った話.md",
+    "content/daily/2023-04-19-Wednesday.md",
     "content/daily/2023-04-18-Tuesday.md",
     "content/daily/2023-04-17-Monday.md",
     "content/note/2023-04-18-Tuesday.md",
@@ -155,7 +157,6 @@
     "content/daily/2023-03-08-Wednesday.md",
     "content/daily/2023-04-12-Wednesday.md",
     "/config.toml",
-    "content/note/Obsidianとquartzで日記兼ノートまとめページをGithub Pagesに作った話.md",
     "content/note/スラッグのテスト.md",
     "content/_index.md",
     "tags/note.md",
@@ -165,7 +166,6 @@
     "content/note/ラーメン.md",
     "content/note/チャーハン.md",
     "content/note/Raspberry Piが欲しいの巻.md",
-    "Unko.md",
     "/layouts/_default/term.html",
     "content/attachments/Pasted image 20230411215536.png",
     "content/attachments/スクリーンショット 2023-04-11 22.03.51.png",
