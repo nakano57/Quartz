@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/daily/2023-04-19-Wednesday.md",
+                "file": "content/daily/2023-04-20-Thursday.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dae31b67026d0a0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/note/AWS Summit Tokyo 2023 note.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/daily/2023-04-19-Wednesday.md",
+            "file": "content/daily/2023-04-20-Thursday.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "content/daily/2023-04-19-Wednesday.md",
+            "file": "content/daily/2023-04-20-Thursday.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "content/daily/2023-04-19-Wednesday.md"
+            "file": "content/daily/2023-04-20-Thursday.md"
           }
         }
       }
@@ -123,19 +135,23 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "open-weather:OpenWeather": false,
+      "translate:Open translation view": false,
       "markdown-importer:Open format converter": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false,
-      "open-weather:OpenWeather": false,
-      "translate:Open translation view": false
+      "templater-obsidian:Templater": false
     }
   },
   "active": "7bf51a3ec4c5efb7",
   "lastOpenFiles": [
+    "content/note/AWS Summit Tokyo 2023 note.md",
+    "content/daily/2023-04-20-Thursday.md",
+    "content/attachments/Pasted image 20230420155912.jpg",
+    "content/attachments/IMG_5003.jpeg",
     "content/note/Obsidianとquartzで日記兼ノートまとめページをGithub Pagesに作った話.md",
     "content/daily/2023-04-19-Wednesday.md",
     "content/daily/2023-04-18-Tuesday.md",
@@ -163,9 +179,6 @@
     "tags",
     "content/note/行きたい店.md",
     "content/daily/2023-03-10-Friday.md",
-    "content/note/ラーメン.md",
-    "content/note/チャーハン.md",
-    "content/note/Raspberry Piが欲しいの巻.md",
     "/layouts/_default/term.html",
     "content/attachments/Pasted image 20230411215536.png",
     "content/attachments/スクリーンショット 2023-04-11 22.03.51.png",
@@ -174,8 +187,6 @@
     "content/attachments/726C16AF-9E8A-4E34-9CA6-D193239AD8C5.jpeg",
     "content/attachments/B26FBA1C-1B03-4198-AC0F-51637A0B031A.jpeg",
     "content/attachments/2B853825-A917-4D46-B1F6-6083F0D65F18.jpeg",
-    "content/attachments/7D07EFB9-FDF9-49B2-B81C-53A0B0EABA11.jpeg",
-    "content/attachments/79420FA9-9396-4579-9AC7-7899D5895B6B.jpeg",
     "0329ミーティング.pdf",
     "0324量子ミーティング.pdf",
     "LICENSE.txt",
