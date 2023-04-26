@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/daily/2023-04-25-Tuesday.md",
+                "file": "content/daily/2023-04-26-Wednesday.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/daily/2023-04-25-Tuesday.md",
+            "file": "content/daily/2023-04-26-Wednesday.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "content/daily/2023-04-25-Tuesday.md",
+            "file": "content/daily/2023-04-26-Wednesday.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "content/daily/2023-04-25-Tuesday.md"
+            "file": "content/daily/2023-04-26-Wednesday.md"
           }
         }
       }
@@ -162,28 +162,40 @@
   "active": "7790821e51a90c21",
   "lastOpenFiles": [
     "content/daily/2023-04-25-Tuesday.md",
+    "layouts/partials/head.html",
+    "content/attachments/3ED69088-A912-4A83-B813-9B5CF7F49CAE.jpeg",
+    "assets/styles/_light_syntax.scss",
+    "content/attachments/E4AF6A70-40AE-49FF-9BD2-B052C4C2E171.jpeg",
+    "content/attachments/Pasted image 20230411215536.png",
+    "content/attachments/FFC3D0A8-9965-4036-82C5-A00B92CA3639.jpeg",
+    "content/attachments/B26FBA1C-1B03-4198-AC0F-51637A0B031A.jpeg",
+    "content/attachments/21E8E18C-F8D3-4AF7-8A92-28D4DFE5A879.jpeg",
+    "content/attachments/726C16AF-9E8A-4E34-9CA6-D193239AD8C5.jpeg",
+    "content/attachments/DC9435B9-C723-46E0-B4CD-6A99208097CE.jpeg",
+    "content/attachments/スクリーンショット 2023-04-11 22.03.51.png",
+    "content/attachments/DE0A0144-9D8A-46EF-9BA0-75953CEFA407_1_102_o.jpeg",
+    "CODE_OF_CONDUCT.md",
+    "content/daily/2023-04-26-Wednesday.md",
+    "assets/styles/base.scss",
+    "assets/styles/_dark_syntax.scss",
+    "layouts/partials/textprocessing.html",
+    "assets/js/graph.js",
+    "assets/js/util.js",
+    "assets/styles/_callouts.scss",
     "content/daily/2023-04-23-Sunday.md",
-    "content/attachments/IMG_5014.jpeg",
     "content/daily/2023-04-24-Monday.md",
-    "content/attachments/2B853825-A917-4D46-B1F6-6083F0D65F18.jpeg",
     "content/daily/2023-04-22-Saturday.md",
     "content/note/AWS Summit Tokyo 2023 1day.md",
     "content/note/AWS Summit Tokyo 2023 2day.md",
-    "content/attachments/IMG_5012.jpeg",
-    "content/attachments/IMG_5011.jpeg",
     "content/daily/2023-04-21-Friday.md",
     "content/daily/2023-04-20-Thursday.md",
-    "content/attachments/Pasted image 20230420155912.jpg",
-    "content/attachments/IMG_5003.jpeg",
     "content/note/Obsidianとquartzで日記兼ノートまとめページをGithub Pagesに作った話.md",
     "content/daily/2023-04-19-Wednesday.md",
     "content/daily/2023-04-18-Tuesday.md",
     "content/daily/2023-04-17-Monday.md",
     "content/note/2023-04-18-Tuesday.md",
     "content/daily/2023-04-16-Sunday.md",
-    "content/attachments/FFC3D0A8-9965-4036-82C5-A00B92CA3639.jpeg",
     "content/daily/2023-04-15-Saturday.md",
-    "content/attachments/21E8E18C-F8D3-4AF7-8A92-28D4DFE5A879.jpeg",
     "content/templates/daily.md",
     "content/daily/2023-04-14-Friday.md",
     "content/note/About me.md",
@@ -192,21 +204,8 @@
     "content/daily/2023-04-13-Thursday.md",
     "content/note/eng.md",
     "content/templates/note.md",
-    "content/note/U.md",
-    "content/daily/2023-03-08-Wednesday.md",
-    "content/daily/2023-04-12-Wednesday.md",
     "/config.toml",
     "tags",
-    "/layouts/_default/term.html",
-    "content/attachments/Pasted image 20230411215536.png",
-    "content/attachments/スクリーンショット 2023-04-11 22.03.51.png",
-    "Untitled.canvas",
-    "0329ミーティング.pdf",
-    "0324量子ミーティング.pdf",
-    "LICENSE.txt",
-    "assets/styles/_dark_syntax.scss",
-    "layouts/_default/baseof.html",
-    "layouts/partials/darkmode.html",
-    "assets/js/full-text-search.js"
+    "Untitled.canvas"
   ]
 }
