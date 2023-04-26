@@ -19,6 +19,25 @@ compy
 [VTracer](https://www.visioncortex.org/vtracer/)ゲーム開発部のステッカーを作る
 ahamoに乗り換えようかなあ
 
+皿洗いと燃えるゴミ捨てはマスト
+
 イノベの4/30までのなにかと5/1までの何かがあるのカス
 
 ## ふりかえり
+
+部屋の掃除してお皿洗ってシンクの掃除もした！
+偉すぎ
+
+ステッカーもつくった！
+
+![[../attachments/Pasted image 20230427002429.jpg]]
+
+かなりいい感じ
+
+イノベの提出物も5/1締切のやつ以外は一応書いた、4/30締切注意
+
+あとはcompyとPhotoPrismだねー
+
+Homebridgeは一旦保留にしようかなー、今日出た[【New】SESAME５](https://jp.candyhouse.co/products/sesame5)買ったし
+わたしが5年前から進めてたスマートホーム化がようやく普及しつつある…
+先見のなんとかじゃ

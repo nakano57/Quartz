@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/daily/2023-04-15-Saturday.md",
+                "file": "content/daily/2023-04-26-Wednesday.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/daily/2023-04-15-Saturday.md",
+                "file": "content/daily/2023-04-26-Wednesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/daily/2023-04-15-Saturday.md",
+                "file": "content/daily/2023-04-26-Wednesday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/daily/2023-04-15-Saturday.md"
+                "file": "content/daily/2023-04-26-Wednesday.md"
               }
             }
           }
@@ -163,6 +163,8 @@
   },
   "active": "02d5bca0a190814f",
   "lastOpenFiles": [
+    "content/attachments/Pasted image 20230427002429.jpg",
+    "content/daily/2023-04-15-Saturday.md",
     "content/daily/2023-04-19-Wednesday.md",
     "content/daily/2023-04-18-Tuesday.md",
     "content/note/2023-04-18-Tuesday.md",
@@ -172,7 +174,6 @@
     "content/daily/2023-04-16-Sunday.md",
     "content/note/eng.md",
     "content/templates/note.md",
-    "content/daily/2023-04-15-Saturday.md",
     "content/templates/daily.md",
     "content/daily/2023-04-11-Tuesday.md",
     "content/note/スラッグのテスト.md",
@@ -192,7 +193,6 @@
     "content/note/Quartz.md",
     "content/note/About me.md",
     "content/note",
-    "tags/daily.md",
     "content/attachments/スクリーンショット 2023-04-11 22.03.51.png",
     "content/attachments/Pasted image 20230411215536.png",
     "content/attachments/E4AF6A70-40AE-49FF-9BD2-B052C4C2E171.jpeg",
