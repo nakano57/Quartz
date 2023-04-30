@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/daily/2023-04-26-Wednesday.md",
+                "file": "content/daily/2023-04-30-Sunday.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/daily/2023-04-26-Wednesday.md",
+            "file": "content/daily/2023-04-30-Sunday.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "content/daily/2023-04-26-Wednesday.md",
+            "file": "content/daily/2023-04-30-Sunday.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "content/daily/2023-04-26-Wednesday.md"
+            "file": "content/daily/2023-04-30-Sunday.md"
           }
         }
       }
@@ -161,9 +161,15 @@
   },
   "active": "7790821e51a90c21",
   "lastOpenFiles": [
+    "content/daily/2023-04-29-Saturday.md",
+    "content/daily/2023-04-28-Friday.md",
+    "content/daily/2023-04-27-Thursday.md",
+    "content/daily/2023-04-30-Sunday.md",
+    "content/private/0428ワイガヤミーティング.md",
+    "content/attachments/3F18FADA-7476-40A9-912D-4FCA09C3C0C4.jpeg",
+    "content/daily/2023-04-26-Wednesday.md",
     "content/attachments/Pasted image 20230427002429.jpg",
     "content/daily/2023-04-25-Tuesday.md",
-    "content/daily/2023-04-26-Wednesday.md",
     "layouts/partials/head.html",
     "content/attachments/3ED69088-A912-4A83-B813-9B5CF7F49CAE.jpeg",
     "assets/styles/_light_syntax.scss",
@@ -174,8 +180,6 @@
     "content/attachments/21E8E18C-F8D3-4AF7-8A92-28D4DFE5A879.jpeg",
     "content/attachments/726C16AF-9E8A-4E34-9CA6-D193239AD8C5.jpeg",
     "content/attachments/DC9435B9-C723-46E0-B4CD-6A99208097CE.jpeg",
-    "content/attachments/スクリーンショット 2023-04-11 22.03.51.png",
-    "content/attachments/DE0A0144-9D8A-46EF-9BA0-75953CEFA407_1_102_o.jpeg",
     "CODE_OF_CONDUCT.md",
     "assets/styles/base.scss",
     "assets/styles/_dark_syntax.scss",
@@ -201,10 +205,6 @@
     "content/daily/2023-04-14-Friday.md",
     "content/note/About me.md",
     "content/note/Quartz.md",
-    "content/note/Test-Note.md",
-    "content/daily/2023-04-13-Thursday.md",
-    "content/note/eng.md",
-    "content/templates/note.md",
     "/config.toml",
     "tags",
     "Untitled.canvas"
