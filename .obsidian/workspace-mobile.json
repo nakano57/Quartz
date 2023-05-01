@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/daily/2023-04-30-Sunday.md",
+                "file": "content/daily/2023-05-01-Monday.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/daily/2023-04-30-Sunday.md",
+            "file": "content/daily/2023-05-01-Monday.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "content/daily/2023-04-30-Sunday.md",
+            "file": "content/daily/2023-05-01-Monday.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "content/daily/2023-04-30-Sunday.md"
+            "file": "content/daily/2023-05-01-Monday.md"
           }
         }
       }
@@ -161,10 +161,12 @@
   },
   "active": "7790821e51a90c21",
   "lastOpenFiles": [
+    "content/attachments/0B818A7D-9DAC-439D-B858-4D1A6B6283FC.png",
+    "content/daily/2023-04-30-Sunday.md",
+    "content/daily/2023-05-01-Monday.md",
     "content/daily/2023-04-29-Saturday.md",
     "content/daily/2023-04-28-Friday.md",
     "content/daily/2023-04-27-Thursday.md",
-    "content/daily/2023-04-30-Sunday.md",
     "content/private/0428ワイガヤミーティング.md",
     "content/attachments/3F18FADA-7476-40A9-912D-4FCA09C3C0C4.jpeg",
     "content/daily/2023-04-26-Wednesday.md",
@@ -203,8 +205,6 @@
     "content/daily/2023-04-15-Saturday.md",
     "content/templates/daily.md",
     "content/daily/2023-04-14-Friday.md",
-    "content/note/About me.md",
-    "content/note/Quartz.md",
     "/config.toml",
     "tags",
     "Untitled.canvas"
