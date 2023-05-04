@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/daily/2023-05-01-Monday.md",
+                "file": "content/daily/2023-05-04-Thursday.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,6 +96,14 @@
           "type": "starred",
           "state": {}
         }
+      },
+      {
+        "id": "54931f1d8862d42c",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
       }
     ],
     "currentTab": 0
@@ -110,7 +118,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/daily/2023-05-01-Monday.md",
+            "file": "content/daily/2023-05-04-Thursday.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +135,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "content/daily/2023-05-01-Monday.md",
+            "file": "content/daily/2023-05-04-Thursday.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +147,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "content/daily/2023-05-01-Monday.md"
+            "file": "content/daily/2023-05-04-Thursday.md"
           }
         }
       }
@@ -161,27 +169,29 @@
   },
   "active": "7790821e51a90c21",
   "lastOpenFiles": [
+    "content/daily/2023-05-03-Wednesday.md",
+    "content/daily/2023-05-02-Tuesday.md",
     "content/attachments/0B818A7D-9DAC-439D-B858-4D1A6B6283FC.png",
-    "content/daily/2023-04-30-Sunday.md",
+    "content/attachments/IMG_5012.jpeg",
+    "content/attachments/IMG_5011.jpeg",
+    "content/attachments/Pasted image 20230427002429.jpg",
+    "content/attachments/2B853825-A917-4D46-B1F6-6083F0D65F18.jpeg",
+    "content/attachments/IMG_5014.jpeg",
+    "content/attachments/Pasted image 20230420155912.jpg",
+    "content/attachments/IMG_5003.jpeg",
+    "content/attachments/3F18FADA-7476-40A9-912D-4FCA09C3C0C4.jpeg",
+    "content/daily/2023-05-04-Thursday.md",
     "content/daily/2023-05-01-Monday.md",
+    "content/daily/2023-04-30-Sunday.md",
     "content/daily/2023-04-29-Saturday.md",
     "content/daily/2023-04-28-Friday.md",
     "content/daily/2023-04-27-Thursday.md",
     "content/private/0428ワイガヤミーティング.md",
-    "content/attachments/3F18FADA-7476-40A9-912D-4FCA09C3C0C4.jpeg",
     "content/daily/2023-04-26-Wednesday.md",
-    "content/attachments/Pasted image 20230427002429.jpg",
     "content/daily/2023-04-25-Tuesday.md",
     "layouts/partials/head.html",
     "content/attachments/3ED69088-A912-4A83-B813-9B5CF7F49CAE.jpeg",
     "assets/styles/_light_syntax.scss",
-    "content/attachments/E4AF6A70-40AE-49FF-9BD2-B052C4C2E171.jpeg",
-    "content/attachments/Pasted image 20230411215536.png",
-    "content/attachments/FFC3D0A8-9965-4036-82C5-A00B92CA3639.jpeg",
-    "content/attachments/B26FBA1C-1B03-4198-AC0F-51637A0B031A.jpeg",
-    "content/attachments/21E8E18C-F8D3-4AF7-8A92-28D4DFE5A879.jpeg",
-    "content/attachments/726C16AF-9E8A-4E34-9CA6-D193239AD8C5.jpeg",
-    "content/attachments/DC9435B9-C723-46E0-B4CD-6A99208097CE.jpeg",
     "CODE_OF_CONDUCT.md",
     "assets/styles/base.scss",
     "assets/styles/_dark_syntax.scss",
@@ -202,9 +212,6 @@
     "content/daily/2023-04-17-Monday.md",
     "content/note/2023-04-18-Tuesday.md",
     "content/daily/2023-04-16-Sunday.md",
-    "content/daily/2023-04-15-Saturday.md",
-    "content/templates/daily.md",
-    "content/daily/2023-04-14-Friday.md",
     "/config.toml",
     "tags",
     "Untitled.canvas"
