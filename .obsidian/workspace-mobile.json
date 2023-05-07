@@ -8,43 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dae31b67026d0a0c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/daily/2023-04-21-Friday.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "bd82760657b55add",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/note/AWS Summit Tokyo 2023 1day.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7790821e51a90c21",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/daily/2023-05-04-Thursday.md",
+                "file": "content/daily/2023-05-07-Sunday.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +93,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/daily/2023-05-04-Thursday.md",
+            "file": "content/daily/2023-05-07-Sunday.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -135,7 +110,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "content/daily/2023-05-04-Thursday.md",
+            "file": "content/daily/2023-05-07-Sunday.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -147,7 +122,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "content/daily/2023-05-04-Thursday.md"
+            "file": "content/daily/2023-05-07-Sunday.md"
           }
         }
       }
@@ -167,8 +142,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7790821e51a90c21",
+  "active": "bd82760657b55add",
   "lastOpenFiles": [
+    "content/attachments/E4B94585-1619-4825-B7CF-1E061B0B822D.jpeg",
+    "content/daily/2023-05-05-Friday.md",
+    "content/daily/2023-05-06-Saturday.md",
+    "content/note/2023-05-08-Monday.md",
+    "content/daily/2023-05-07-Sunday.md",
+    "content/daily/2023-05-04-Thursday.md",
     "content/daily/2023-05-03-Wednesday.md",
     "content/daily/2023-05-02-Tuesday.md",
     "content/attachments/0B818A7D-9DAC-439D-B858-4D1A6B6283FC.png",
@@ -180,7 +161,6 @@
     "content/attachments/Pasted image 20230420155912.jpg",
     "content/attachments/IMG_5003.jpeg",
     "content/attachments/3F18FADA-7476-40A9-912D-4FCA09C3C0C4.jpeg",
-    "content/daily/2023-05-04-Thursday.md",
     "content/daily/2023-05-01-Monday.md",
     "content/daily/2023-04-30-Sunday.md",
     "content/daily/2023-04-29-Saturday.md",
@@ -208,10 +188,6 @@
     "content/daily/2023-04-20-Thursday.md",
     "content/note/Obsidianとquartzで日記兼ノートまとめページをGithub Pagesに作った話.md",
     "content/daily/2023-04-19-Wednesday.md",
-    "content/daily/2023-04-18-Tuesday.md",
-    "content/daily/2023-04-17-Monday.md",
-    "content/note/2023-04-18-Tuesday.md",
-    "content/daily/2023-04-16-Sunday.md",
     "/config.toml",
     "tags",
     "Untitled.canvas"
