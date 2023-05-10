@@ -35,9 +35,11 @@
             "id": "d4124a19094270d1",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.2.7"
+                "file": "content/daily/2023-05-10-Wednesday.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -116,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/daily/2023-05-01-Monday.md",
+                "file": "content/daily/2023-05-10-Wednesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/daily/2023-05-01-Monday.md",
+                "file": "content/daily/2023-05-10-Wednesday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/daily/2023-05-01-Monday.md"
+                "file": "content/daily/2023-05-10-Wednesday.md"
               }
             }
           }
@@ -181,6 +183,7 @@
   },
   "active": "d4124a19094270d1",
   "lastOpenFiles": [
+    "content/daily/2023-05-11-Thursday.md",
     "content/attachments/0B818A7D-9DAC-439D-B858-4D1A6B6283FC.png",
     "content/daily/2023-05-02-Tuesday.md",
     "content/daily/2023-05-04-Thursday.md",
@@ -219,7 +222,6 @@
     "content/attachments/726C16AF-9E8A-4E34-9CA6-D193239AD8C5.jpeg",
     "content/attachments/EEE415FB-E905-412B-85BD-7D8B4113EB05.jpeg",
     "0329ミーティング.pdf",
-    "content/attachments/19D517E0-8857-4B65-A26E-34D5BBD008AC.jpeg",
     "0324量子ミーティング.pdf",
     "Untitled.canvas",
     "content/notes/attachments"
