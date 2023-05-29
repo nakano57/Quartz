@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/daily/2023-05-10-Wednesday.md",
+                "file": "content/daily/2023-05-30-Tuesday.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "083c9aeac7968d56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/note/チャーハン.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +105,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/daily/2023-05-10-Wednesday.md",
+            "file": "content/daily/2023-05-30-Tuesday.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -110,7 +122,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "content/daily/2023-05-10-Wednesday.md",
+            "file": "content/daily/2023-05-30-Tuesday.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -122,7 +134,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "content/daily/2023-05-10-Wednesday.md"
+            "file": "content/daily/2023-05-30-Tuesday.md"
           }
         }
       }
@@ -144,36 +156,42 @@
   },
   "active": "bd82760657b55add",
   "lastOpenFiles": [
-    "content/daily/2023-05-11-Thursday.md",
     "content/daily/2023-05-10-Wednesday.md",
-    "content/daily/2023-05-09-Tuesday.md",
-    "content/attachments/19D517E0-8857-4B65-A26E-34D5BBD008AC.jpeg",
-    "content/attachments/3ED69088-A912-4A83-B813-9B5CF7F49CAE.jpeg",
-    "content/attachments/E4AF6A70-40AE-49FF-9BD2-B052C4C2E171.jpeg",
-    "content/attachments/FFC3D0A8-9965-4036-82C5-A00B92CA3639.jpeg",
-    "content/attachments/Pasted image 20230411215536.png",
-    "content/attachments/21E8E18C-F8D3-4AF7-8A92-28D4DFE5A879.jpeg",
-    "content/attachments/スクリーンショット 2023-04-11 22.03.51.png",
-    "CODE_OF_CONDUCT.md",
-    "content/attachments/EEE415FB-E905-412B-85BD-7D8B4113EB05.jpeg",
-    "content/attachments/183A24A7-F1C9-478F-B2F3-ADE1C21B6630.jpeg",
-    "content/attachments/7D07EFB9-FDF9-49B2-B81C-53A0B0EABA11.jpeg",
-    "content/daily/2023-05-08-Monday.md",
-    "content/daily/2023-05-07-Sunday.md",
-    "content/daily/2023-05-05-Friday.md",
-    "content/daily/2023-05-06-Saturday.md",
-    "content/note/2023-05-08-Monday.md",
-    "content/daily/2023-05-04-Thursday.md",
-    "content/daily/2023-05-03-Wednesday.md",
-    "content/daily/2023-05-02-Tuesday.md",
-    "content/daily/2023-05-01-Monday.md",
-    "content/daily/2023-04-30-Sunday.md",
-    "content/daily/2023-04-29-Saturday.md",
-    "content/daily/2023-04-28-Friday.md",
-    "content/daily/2023-04-27-Thursday.md",
-    "content/private/0428ワイガヤミーティング.md",
-    "content/daily/2023-04-26-Wednesday.md",
-    "content/daily/2023-04-25-Tuesday.md",
+    "content/daily/2023-05-30-Tuesday.md",
+    "content/daily/2023-05-11-Thursday.md",
+    "content/daily/2023-05-12-Friday.md",
+    "content/daily/2023-05-13-Saturday.md",
+    "content/daily/2023-05-14-Sunday.md",
+    "content/daily/2023-05-15-Monday.md",
+    "content/daily/2023-05-16-Tuesday.md",
+    "content/daily/2023-05-17-Wednesday.md",
+    "content/daily/2023-05-18-Thursday.md",
+    "content/daily/2023-05-19-Friday.md",
+    "content/daily/2023-05-20-Saturday.md",
+    "content/daily/2023-05-21-Sunday.md",
+    "content/daily/2023-05-22-Monday.md",
+    "content/daily/2023-05-23-Tuesday.md",
+    "content/daily/2023-05-24-Wednesday.md",
+    "content/daily/2023-05-25-Thursday.md",
+    "content/daily/2023-05-26-Friday.md",
+    "content/daily/2023-05-27-Saturday.md",
+    "content/daily/2023-05-28-Sunday.md",
+    "content/daily/2023-05-29-Monday.md",
+    "content/attachments/IMG_1431.jpeg",
+    "content/note/行きたい店.md",
+    "content/attachments/IMG_1365.jpeg",
+    "content/attachments/IMG_5014.jpeg",
+    "content/attachments/IMG_0964.jpeg",
+    "content/attachments/IMG_5003.jpeg",
+    "content/attachments/3F18FADA-7476-40A9-912D-4FCA09C3C0C4.jpeg",
+    "content/attachments/F3E06D8B-BEB1-493B-89B3-D9E90CBEE1B0.jpeg",
+    "content/attachments/4DC16666-D0BB-4764-B7F7-DC1F5E13D802.jpeg",
+    "content/attachments/4084CF18-9CE7-4C88-934B-587FD28F746C.jpeg",
+    "content/note/行ってよかった店.md",
+    "content/attachments/IMG_0966.jpeg",
+    "content/note/行きたい店札幌編.md",
+    "content/note/2023-05-15-Monday.md",
+    "content/note/やりたいことやること.md",
     "layouts/partials/head.html",
     "assets/styles/_light_syntax.scss",
     "assets/styles/base.scss",
@@ -182,12 +200,6 @@
     "assets/js/graph.js",
     "assets/js/util.js",
     "assets/styles/_callouts.scss",
-    "content/daily/2023-04-23-Sunday.md",
-    "content/daily/2023-04-24-Monday.md",
-    "content/daily/2023-04-22-Saturday.md",
-    "content/note/AWS Summit Tokyo 2023 1day.md",
-    "content/note/AWS Summit Tokyo 2023 2day.md",
-    "content/daily/2023-04-21-Friday.md",
     "/config.toml",
     "tags",
     "Untitled.canvas"
