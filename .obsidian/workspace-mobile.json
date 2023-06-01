@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bd82760657b55add",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/daily/2023-05-30-Tuesday.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "083c9aeac7968d56",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/note/チャーハン.md",
+                "file": "content/note/行きたい店.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +93,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/daily/2023-05-30-Tuesday.md",
+            "file": "content/note/行きたい店.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -122,7 +110,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "content/daily/2023-05-30-Tuesday.md",
+            "file": "content/note/行きたい店.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -134,7 +122,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "content/daily/2023-05-30-Tuesday.md"
+            "file": "content/note/行きたい店.md"
           }
         }
       }
@@ -154,10 +142,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bd82760657b55add",
+  "active": "083c9aeac7968d56",
   "lastOpenFiles": [
-    "content/daily/2023-05-10-Wednesday.md",
+    "content/daily/2023-05-31-Wednesday.md",
     "content/daily/2023-05-30-Tuesday.md",
+    "2023-0601.md",
+    "content/daily/2023-05-10-Wednesday.md",
     "content/daily/2023-05-11-Thursday.md",
     "content/daily/2023-05-12-Friday.md",
     "content/daily/2023-05-13-Saturday.md",
@@ -190,8 +180,6 @@
     "content/note/行ってよかった店.md",
     "content/attachments/IMG_0966.jpeg",
     "content/note/行きたい店札幌編.md",
-    "content/note/2023-05-15-Monday.md",
-    "content/note/やりたいことやること.md",
     "layouts/partials/head.html",
     "assets/styles/_light_syntax.scss",
     "assets/styles/base.scss",
