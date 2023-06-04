@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/daily/2023-05-10-Wednesday.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/daily/2023-05-10-Wednesday.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/daily/2023-05-10-Wednesday.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/daily/2023-05-10-Wednesday.md"
+                "file": "README.md"
               }
             }
           }
@@ -166,23 +166,28 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "open-weather:OpenWeather": false,
-      "translate:Open translation view": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "open-weather:OpenWeather": false,
+      "translate:Open translation view": false,
+      "obsidian-livesync:Replicate": false,
+      "obsidian-livesync:Show log": false
     }
   },
-  "active": "d4124a19094270d1",
+  "active": "805a1edbef0414e3",
   "lastOpenFiles": [
+    "content/daily/2023-06-04-Sunday.md",
+    "content/daily/2023-05-10-Wednesday.md",
     "content/daily/2023-05-11-Thursday.md",
     "content/attachments/0B818A7D-9DAC-439D-B858-4D1A6B6283FC.png",
     "content/daily/2023-05-02-Tuesday.md",
@@ -212,8 +217,6 @@
     "content/templates/note.md",
     "content/templates/daily.md",
     "content/daily/2023-04-11-Tuesday.md",
-    "content/note/スラッグのテスト.md",
-    "tags/note.md",
     "tags",
     "content/note",
     "content/attachments/スクリーンショット 2023-04-11 22.03.51.png",

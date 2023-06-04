@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/note/行きたい店.md",
+                "file": "content/daily/2023-06-04-Sunday.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/note/行きたい店.md",
+            "file": "content/daily/2023-06-04-Sunday.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "content/note/行きたい店.md",
+            "file": "content/daily/2023-06-04-Sunday.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -122,7 +122,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "content/note/行きたい店.md"
+            "file": "content/daily/2023-06-04-Sunday.md"
           }
         }
       }
@@ -131,19 +131,25 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
       "open-weather:OpenWeather": false,
       "translate:Open translation view": false,
+      "obsidian-livesync:Replicate": false,
+      "obsidian-livesync:Show log": false,
       "markdown-importer:Open format converter": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
-      "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false
+      "command-palette:Open command palette": false
     }
   },
   "active": "083c9aeac7968d56",
   "lastOpenFiles": [
+    "content/daily/2023-06-03-Saturday.md",
+    "content/daily/2023-06-02-Friday.md",
+    "content/daily/2023-06-01-Thursday.md",
+    "content/note/行きたい店.md",
     "content/daily/2023-05-31-Wednesday.md",
     "content/daily/2023-05-30-Tuesday.md",
     "2023-0601.md",
@@ -166,9 +172,7 @@
     "content/daily/2023-05-26-Friday.md",
     "content/daily/2023-05-27-Saturday.md",
     "content/daily/2023-05-28-Sunday.md",
-    "content/daily/2023-05-29-Monday.md",
     "content/attachments/IMG_1431.jpeg",
-    "content/note/行きたい店.md",
     "content/attachments/IMG_1365.jpeg",
     "content/attachments/IMG_5014.jpeg",
     "content/attachments/IMG_0964.jpeg",
@@ -177,9 +181,7 @@
     "content/attachments/F3E06D8B-BEB1-493B-89B3-D9E90CBEE1B0.jpeg",
     "content/attachments/4DC16666-D0BB-4764-B7F7-DC1F5E13D802.jpeg",
     "content/attachments/4084CF18-9CE7-4C88-934B-587FD28F746C.jpeg",
-    "content/note/行ってよかった店.md",
     "content/attachments/IMG_0966.jpeg",
-    "content/note/行きたい店札幌編.md",
     "layouts/partials/head.html",
     "assets/styles/_light_syntax.scss",
     "assets/styles/base.scss",
