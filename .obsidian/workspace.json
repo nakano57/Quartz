@@ -25,26 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/daily/2023-05-01-Monday.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d4124a19094270d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
+                "file": "content/daily/2023-06-05-Monday.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "content/daily/2023-06-05-Monday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "content/daily/2023-06-05-Monday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "content/daily/2023-06-05-Monday.md"
               }
             }
           }
@@ -184,9 +172,13 @@
       "obsidian-livesync:Show log": false
     }
   },
-  "active": "805a1edbef0414e3",
+  "active": "02d5bca0a190814f",
   "lastOpenFiles": [
+    "content/daily/2023-05-01-Monday.md",
+    "content/daily/2023-06-05-Monday.md",
+    "content/note/Untitled.md",
     "content/daily/2023-06-04-Sunday.md",
+    "README.md",
     "content/daily/2023-05-10-Wednesday.md",
     "content/daily/2023-05-11-Thursday.md",
     "content/attachments/0B818A7D-9DAC-439D-B858-4D1A6B6283FC.png",
@@ -196,13 +188,11 @@
     "content/daily/2023-04-30-Sunday.md",
     "content/daily/2023-04-29-Saturday.md",
     "content/daily/2023-04-28-Friday.md",
-    "content/daily/2023-05-01-Monday.md",
     "content/daily/2023-04-26-Wednesday.md",
     "content/private/0428ワイガヤミーティング.md",
     "content/note/2023-04-29-Saturday.md",
     "content/attachments/3F18FADA-7476-40A9-912D-4FCA09C3C0C4.jpeg",
     "content/note/0428ワイガヤミーティング.md",
-    "content/note/Untitled.md",
     "content/daily/2023-04-27-Thursday.md",
     "content/attachments/Pasted image 20230427002429.jpg",
     "content/daily/2023-04-15-Saturday.md",
@@ -215,8 +205,6 @@
     "content/daily/2023-04-16-Sunday.md",
     "content/note/eng.md",
     "content/templates/note.md",
-    "content/templates/daily.md",
-    "content/daily/2023-04-11-Tuesday.md",
     "tags",
     "content/note",
     "content/attachments/スクリーンショット 2023-04-11 22.03.51.png",
