@@ -30,7 +30,7 @@ ahamoに乗り換えようかなあ
 
 ステッカーもつくった！
 
-![[../attachments/Pasted image 20230427002429.jpg]]
+![[content/attachments/Pasted image 20230427002429.jpg]]
 
 かなりいい感じ
 
