@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/daily/2023-06-05-Monday.md",
+                "file": "content/note/2023-06-08-Thursday.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "82b79da0b4978b43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/daily/2023-06-13-Tuesday.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/daily/2023-06-05-Monday.md",
+            "file": "content/daily/2023-06-13-Tuesday.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "content/daily/2023-06-05-Monday.md",
+            "file": "content/daily/2023-06-13-Tuesday.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "content/daily/2023-06-05-Monday.md"
+            "file": "content/daily/2023-06-13-Tuesday.md"
           }
         }
       }
@@ -136,8 +149,33 @@
       "obsidian-livesync:Show log": false
     }
   },
-  "active": "6a1238036e3850c1",
+  "active": "82b79da0b4978b43",
   "lastOpenFiles": [
+    "content/attachments/Pasted image 20230613022023.jpg",
+    "content/daily/2023-06-12-Monday.md",
+    "content/daily/2023-06-13-Tuesday.md",
+    "content/note/Obsidian Self-hosted Live Syncとgitの併用.md",
+    "content/private/0428ワイガヤミーティング.md",
+    "content/note/2023-06-08-Thursday.md",
+    "content/private/attachments/IMG_1772.jpeg",
+    "content/private/attachments/IMG_1771.jpeg",
+    "content/private/attachments/IMG_1770.jpeg",
+    "content/private/attachments/Pasted image 20230613012937.jpg",
+    "content/private/attachments",
+    "content/attachments/Pasted image 20230613013100.jpg",
+    "content/attachments/F3E06D8B-BEB1-493B-89B3-D9E90CBEE1B0.jpeg",
+    "content/attachments/21E8E18C-F8D3-4AF7-8A92-28D4DFE5A879.jpeg",
+    "content/attachments/IMG_5014.jpeg",
+    "content/attachments/Pasted image 20230427002429.jpg",
+    "content/attachments/3F18FADA-7476-40A9-912D-4FCA09C3C0C4.jpeg",
+    "content/attachments",
+    "content/private/着る服リスト.md",
+    "content/daily/2023-06-07-Wednesday.md",
+    "content/daily/2023-06-09-Friday.md",
+    "content/daily/2023-06-10-Saturday.md",
+    "content/daily/2023-06-11-Sunday.md",
+    "content/daily/2023-06-06-Tuesday.md",
+    "content/daily/2023-06-05-Monday.md",
     "content/daily/2023-03-29-Wednesday.md",
     "assets/js/popover.js",
     "assets/js/clipboard.js",
@@ -147,42 +185,17 @@
     "assets/js/util.js",
     "assets/styles/syntax.scss",
     "assets/styles/darkmode.scss",
-    "assets/styles/code-title.scss",
-    "assets/styles/custom.scss",
     "content/_index.md",
     "README.md",
     "CODE_OF_CONDUCT.md",
-    "content/attachments/2764A7F1-7FAC-4163-8BEB-59B7E833EDD3.jpeg",
-    "content/attachments/DC9435B9-C723-46E0-B4CD-6A99208097CE.jpeg",
-    "content/attachments/DE0A0144-9D8A-46EF-9BA0-75953CEFA407_1_102_o.jpeg",
-    "content/attachments/D05D0044-BFE0-470B-A559-72E4012356CB.jpeg",
-    "content/attachments/296E1D24-FE69-43A2-A438-682A633B3A64.jpeg",
-    "content/attachments/EE8CBD30-5D7D-4AB7-AA21-2A33A37CCE7A.jpeg",
-    "content/attachments/4EC7775D-C4EF-470C-B389-DDE7B3FDF7CD.jpeg",
-    "content/attachments/C1AAF6FA-C900-4339-A348-4EDFA7DB4936.jpeg",
-    "content/attachments/8225402C-6C91-4BCE-9A10-2AFAD8EAE6CC.jpeg",
-    "content/attachments/7EEF3790-39E4-433E-9B60-CF5376925901.jpeg",
     "content/templates/post.md",
     "content/templates/note.md",
     "content/templates/daily.md",
-    "content/private/0428ワイガヤミーティング.md",
     "content/note/行きたい店.md",
     "content/note/ラーメン.md",
     "content/note/チャーハン.md",
     "content/note/スラッグのテスト.md",
     "content/note/eng.md",
-    "content/note/Test-Note.md",
-    "content/note/Raspberry Piが欲しいの巻.md",
-    "content/note/Quartz.md",
-    "content/note/Obsidianとquartzで日記兼ノートまとめページをGithub Pagesに作った話.md",
-    "content/note/About me.md",
-    "content/note/AWS Summit Tokyo 2023 2day.md",
-    "content/note/AWS Summit Tokyo 2023 1day.md",
-    "content/daily/2023-06-05-Monday.md",
-    "content/daily/2023-06-04-Sunday.md",
-    "content/daily/2023-06-03-Saturday.md",
-    "content/daily/2023-06-02-Friday.md",
-    "content/daily/2023-06-01-Thursday.md",
-    "content/daily/2023-05-31-Wednesday.md"
+    "content/note/Test-Note.md"
   ]
 }

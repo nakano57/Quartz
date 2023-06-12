@@ -12,4 +12,4 @@ tags:
 
 ビーフシチュー
 
-![[attachments/183A24A7-F1C9-478F-B2F3-ADE1C21B6630.jpeg]]
+![[content/attachments/183A24A7-F1C9-478F-B2F3-ADE1C21B6630.jpeg]]
