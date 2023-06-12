@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/daily/2023-06-13-Tuesday.md",
+                "file": "content/daily/2023-04-17-Monday.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/daily/2023-06-13-Tuesday.md",
+            "file": "content/daily/2023-04-17-Monday.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "content/daily/2023-06-13-Tuesday.md",
+            "file": "content/daily/2023-04-17-Monday.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "content/daily/2023-06-13-Tuesday.md"
+            "file": "content/daily/2023-04-17-Monday.md"
           }
         }
       }
@@ -151,9 +151,9 @@
   },
   "active": "82b79da0b4978b43",
   "lastOpenFiles": [
+    "content/daily/2023-06-13-Tuesday.md",
     "content/attachments/Pasted image 20230613022023.jpg",
     "content/daily/2023-06-12-Monday.md",
-    "content/daily/2023-06-13-Tuesday.md",
     "content/note/Obsidian Self-hosted Live Syncとgitの併用.md",
     "content/private/0428ワイガヤミーティング.md",
     "content/note/2023-06-08-Thursday.md",
@@ -167,7 +167,6 @@
     "content/attachments/21E8E18C-F8D3-4AF7-8A92-28D4DFE5A879.jpeg",
     "content/attachments/IMG_5014.jpeg",
     "content/attachments/Pasted image 20230427002429.jpg",
-    "content/attachments/3F18FADA-7476-40A9-912D-4FCA09C3C0C4.jpeg",
     "content/attachments",
     "content/private/着る服リスト.md",
     "content/daily/2023-06-07-Wednesday.md",
