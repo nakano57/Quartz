@@ -12,4 +12,4 @@ tags:
 
 遠くから見てまいばすけっとだと思ったら違った
 
-![[../attachments/726C16AF-9E8A-4E34-9CA6-D193239AD8C5.jpeg]]
+![[attachments/726C16AF-9E8A-4E34-9CA6-D193239AD8C5.jpeg]]

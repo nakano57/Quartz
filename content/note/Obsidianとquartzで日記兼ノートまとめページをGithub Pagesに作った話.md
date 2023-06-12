@@ -16,7 +16,7 @@ tags:
 `config.toml`やら`data/config.yaml`をいじくり回す。まだまだ知らない機能しかない
 
 ObsidianでVaultとして開くときはリポジトリのルートフォルダにする。
-![[../attachments/スクリーンショット 2023-04-11 22.03.51.png]]
+![[../daily/attachments/スクリーンショット 2023-04-11 22.03.51.png]]
 つまりこう、そうしないとなんかうまくいかなかった気がする
 
 ### Obsidianの設定

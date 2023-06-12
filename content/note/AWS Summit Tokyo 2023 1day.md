@@ -61,7 +61,7 @@ Virtual Fugaku、富岳のアプリケーションをGravityで実行
 データ基盤システムの統合をAWSで構築「ダッシュボード」
 神戸市職員が作った、すごくない？
 
-![[../attachments/IMG_5003.jpeg]]
+![[../daily/attachments/IMG_5003.jpeg]]
 ガバメントクラウドのメリットは安全性、災害に対する強さ
 
 ## 浜松

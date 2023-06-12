@@ -23,11 +23,9 @@
             "id": "02d5bca0a190814f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "content/daily/2023-06-05-Monday.md",
-                "mode": "source",
-                "source": false
+                "file": "content/daily/attachments/0F38010C-86C9-43E1-99C4-F7BE3C8E7AEB.jpeg"
               }
             }
           }
@@ -106,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/daily/2023-06-05-Monday.md",
+                "file": "content/daily/attachments/0F38010C-86C9-43E1-99C4-F7BE3C8E7AEB.jpeg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/daily/2023-06-05-Monday.md",
+                "file": "content/daily/attachments/0F38010C-86C9-43E1-99C4-F7BE3C8E7AEB.jpeg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/daily/2023-06-05-Monday.md"
+                "file": "content/daily/attachments/0F38010C-86C9-43E1-99C4-F7BE3C8E7AEB.jpeg"
               }
             }
           }
@@ -174,14 +172,36 @@
   },
   "active": "02d5bca0a190814f",
   "lastOpenFiles": [
-    "content/daily/2023-05-01-Monday.md",
+    "content/daily/2023-06-07-Wednesday.md",
+    "content/daily/attachments/スクリーンショット 2023-04-11 22.03.51.png",
+    "content/private/attachments/IMG_1770.jpeg",
+    "content/private/attachments/IMG_1772.jpeg",
+    "content/private/attachments/Pasted image 20230613012937.jpg",
+    "content/daily/attachments/Pasted image 20230613013100.jpg",
+    "content/daily/attachments/2764A7F1-7FAC-4163-8BEB-59B7E833EDD3.jpeg",
+    "content/daily/attachments/DC9435B9-C723-46E0-B4CD-6A99208097CE.jpeg",
+    "content/daily/attachments/DE0A0144-9D8A-46EF-9BA0-75953CEFA407_1_102_o.jpeg",
+    "content/daily/attachments/D05D0044-BFE0-470B-A559-72E4012356CB.jpeg",
+    "content/daily/2023-06-13-Tuesday.md",
+    "content/daily/attachments/EE8CBD30-5D7D-4AB7-AA21-2A33A37CCE7A.jpeg",
+    "content/private/attachments",
+    "content/daily/attachments",
+    "content/note/Obsidian Self-hosted Live Syncとgitの併用.md",
+    "content/daily/2023-06-12-Monday.md",
+    "content/daily/2023-06-11-Sunday.md",
+    "content/daily/2023-06-09-Friday.md",
+    "content/daily/2023-06-10-Saturday.md",
+    "content/note/2023-06-08-Thursday.md",
+    "content/private/着る服リスト.md",
+    "content/private",
     "content/daily/2023-06-05-Monday.md",
+    "content/daily/2023-06-06-Tuesday.md",
+    "content/daily/2023-05-01-Monday.md",
     "content/note/Untitled.md",
     "content/daily/2023-06-04-Sunday.md",
     "README.md",
     "content/daily/2023-05-10-Wednesday.md",
     "content/daily/2023-05-11-Thursday.md",
-    "content/attachments/0B818A7D-9DAC-439D-B858-4D1A6B6283FC.png",
     "content/daily/2023-05-02-Tuesday.md",
     "content/daily/2023-05-04-Thursday.md",
     "content/daily/2023-05-03-Wednesday.md",
@@ -190,28 +210,8 @@
     "content/daily/2023-04-28-Friday.md",
     "content/daily/2023-04-26-Wednesday.md",
     "content/private/0428ワイガヤミーティング.md",
-    "content/note/2023-04-29-Saturday.md",
-    "content/attachments/3F18FADA-7476-40A9-912D-4FCA09C3C0C4.jpeg",
-    "content/note/0428ワイガヤミーティング.md",
-    "content/daily/2023-04-27-Thursday.md",
-    "content/attachments/Pasted image 20230427002429.jpg",
-    "content/daily/2023-04-15-Saturday.md",
-    "content/daily/2023-04-19-Wednesday.md",
-    "content/daily/2023-04-18-Tuesday.md",
-    "content/note/2023-04-18-Tuesday.md",
-    "content/attachments/FFC3D0A8-9965-4036-82C5-A00B92CA3639.jpeg",
-    "content/daily/2023-04-17-Monday.md",
-    "content/attachments/21E8E18C-F8D3-4AF7-8A92-28D4DFE5A879.jpeg",
-    "content/daily/2023-04-16-Sunday.md",
-    "content/note/eng.md",
-    "content/templates/note.md",
     "tags",
     "content/note",
-    "content/attachments/スクリーンショット 2023-04-11 22.03.51.png",
-    "content/attachments/Pasted image 20230411215536.png",
-    "content/attachments/E4AF6A70-40AE-49FF-9BD2-B052C4C2E171.jpeg",
-    "content/attachments/726C16AF-9E8A-4E34-9CA6-D193239AD8C5.jpeg",
-    "content/attachments/EEE415FB-E905-412B-85BD-7D8B4113EB05.jpeg",
     "0329ミーティング.pdf",
     "0324量子ミーティング.pdf",
     "Untitled.canvas",
