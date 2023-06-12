@@ -4,5 +4,5 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "content/note",
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "./ attachments"
+  "attachmentFolderPath": "content/attachments"
 }

@@ -23,9 +23,11 @@
             "id": "02d5bca0a190814f",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "content/daily/attachments/0F38010C-86C9-43E1-99C4-F7BE3C8E7AEB.jpeg"
+                "file": "content/daily/2023-06-07-Wednesday.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -104,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/daily/attachments/0F38010C-86C9-43E1-99C4-F7BE3C8E7AEB.jpeg",
+                "file": "content/daily/2023-06-07-Wednesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/daily/attachments/0F38010C-86C9-43E1-99C4-F7BE3C8E7AEB.jpeg",
+                "file": "content/daily/2023-06-07-Wednesday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/daily/attachments/0F38010C-86C9-43E1-99C4-F7BE3C8E7AEB.jpeg"
+                "file": "content/daily/2023-06-07-Wednesday.md"
               }
             }
           }
@@ -172,18 +174,20 @@
   },
   "active": "02d5bca0a190814f",
   "lastOpenFiles": [
+    "content/daily/attachments/0F38010C-86C9-43E1-99C4-F7BE3C8E7AEB.jpeg",
+    "content/attachments/スクリーンショット 2023-04-11 22.03.51.png",
+    "content/attachments/Pasted image 20230613013100.jpg",
+    "content/attachments/Pasted image 20230613003411.jpg",
+    "content/attachments/Pasted image 20230427002429.jpg",
+    "content/attachments/Pasted image 20230420155912.jpg",
+    "content/attachments/Pasted image 20230411215536.png",
+    "content/attachments/Pasted image 20230318005135.jpg",
+    "content/attachments/IMG_5014.jpeg",
+    "content/attachments/IMG_5012.jpeg",
+    "content/attachments/IMG_5011.jpeg",
+    "content/attachments",
     "content/daily/2023-06-07-Wednesday.md",
-    "content/daily/attachments/スクリーンショット 2023-04-11 22.03.51.png",
-    "content/private/attachments/IMG_1770.jpeg",
-    "content/private/attachments/IMG_1772.jpeg",
-    "content/private/attachments/Pasted image 20230613012937.jpg",
-    "content/daily/attachments/Pasted image 20230613013100.jpg",
-    "content/daily/attachments/2764A7F1-7FAC-4163-8BEB-59B7E833EDD3.jpeg",
-    "content/daily/attachments/DC9435B9-C723-46E0-B4CD-6A99208097CE.jpeg",
-    "content/daily/attachments/DE0A0144-9D8A-46EF-9BA0-75953CEFA407_1_102_o.jpeg",
-    "content/daily/attachments/D05D0044-BFE0-470B-A559-72E4012356CB.jpeg",
     "content/daily/2023-06-13-Tuesday.md",
-    "content/daily/attachments/EE8CBD30-5D7D-4AB7-AA21-2A33A37CCE7A.jpeg",
     "content/private/attachments",
     "content/daily/attachments",
     "content/note/Obsidian Self-hosted Live Syncとgitの併用.md",
