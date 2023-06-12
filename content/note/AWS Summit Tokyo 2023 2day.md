@@ -64,11 +64,11 @@ AWSは生成系AIを民主化する→Bedrock
 堅牢性（セキュリティやプライバシー）と柔軟性（社員の誰もがデータを活用）、そしてコスト
 これらをコントロールするためAWSを採用
 
-![[content/attachments/IMG_5011.jpeg]]
+![[../attachments/IMG_5011.jpeg]]
 仮名加工で誰でもイノベーションの創出
 
 データ活用のための組織づくり、データの民主化を推進
-![[content/attachments/IMG_5012.jpeg]]
+![[../attachments/IMG_5012.jpeg]]
 
 ひらめきがあっても条件が整わないと日は起こすことができない
 
@@ -92,7 +92,7 @@ Elastic Network Adapter
 
 柔軟な場所選択
 
-![[content/attachments/IMG_5014.jpeg]]
+![[../attachments/IMG_5014.jpeg]]
 
 宇宙でも使えるらしい
 

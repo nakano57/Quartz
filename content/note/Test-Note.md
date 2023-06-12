@@ -13,4 +13,4 @@ tags:
 
 画像は？
 →みれた
-![[content/attachments/DC9435B9-C723-46E0-B4CD-6A99208097CE.jpeg]]
+![[../attachments/DC9435B9-C723-46E0-B4CD-6A99208097CE.jpeg]]
