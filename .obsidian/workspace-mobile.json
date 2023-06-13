@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/daily/2023-06-13-Tuesday.md",
+                "file": "content/note/Obsidian Self-hosted Live Syncとgitの併用.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/daily/2023-06-13-Tuesday.md",
+            "file": "content/note/Obsidian Self-hosted Live Syncとgitの併用.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "content/daily/2023-06-13-Tuesday.md",
+            "file": "content/note/Obsidian Self-hosted Live Syncとgitの併用.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "content/daily/2023-06-13-Tuesday.md"
+            "file": "content/note/Obsidian Self-hosted Live Syncとgitの併用.md"
           }
         }
       }
@@ -149,16 +149,36 @@
       "obsidian-livesync:Show log": false
     }
   },
-  "active": "82b79da0b4978b43",
+  "active": "bb79524578cba913",
   "lastOpenFiles": [
-    "content/daily/2023-04-01-Saturday.md",
-    "content/daily/2023-04-17-Monday.md",
+    "content/note/Obsidianとquartzで日記兼ノートまとめページをGithub Pagesに作った話.md",
     "content/daily/2023-06-13-Tuesday.md",
+    "content/private/着る服リスト.md",
+    "content/attachments/Pasted image 20230613030743.jpg",
+    "content/daily/2023-04-17-Monday.md",
+    "/content/daily/2023-03-25-Saturday.md",
+    "/content/daily/2023-03-23-Thursday.md",
+    "/content/daily/2023-03-19-Sunday.md",
+    "/content/daily/2023-03-14-Tuesday.md",
+    "/content/daily/2023-03-10-Friday.md",
+    "/content/daily/2023-03-08-Wednesday.md",
+    "/content/daily/2023-04-08-Saturday.md",
+    "/content/daily/2023-03-31-Friday.md",
+    "/content/daily/2023-03-30-Thursday.md",
+    "/content/note/Test-Note.md",
+    "/content/daily/2023-05-08-Monday.md",
+    "/content/daily/2023-03-26-Sunday.md",
+    "/content/daily/2023-03-09-Thursday.md",
+    "/content/note/Obsidianとquartzで日記兼ノートまとめページをGithub Pagesに作った話.md",
+    "/content/note/AWS Summit Tokyo 2023 2day.md",
+    "/content/note/AWS Summit Tokyo 2023 1day.md",
+    "/content/daily/2023-05-07-Sunday.md",
+    "/content/daily/2023-05-01-Monday.md",
+    "/content/daily/2023-04-26-Wednesday.md",
+    "/content/daily/2023-04-25-Tuesday.md",
+    "/content/daily/2023-04-20-Thursday.md",
+    "/content/daily/2023-04-16-Sunday.md",
     "content/attachments/Pasted image 20230613022023.jpg",
-    "content/daily/2023-06-12-Monday.md",
-    "content/note/Obsidian Self-hosted Live Syncとgitの併用.md",
-    "content/private/0428ワイガヤミーティング.md",
-    "content/note/2023-06-08-Thursday.md",
     "content/private/attachments/IMG_1772.jpeg",
     "content/private/attachments/IMG_1771.jpeg",
     "content/private/attachments/IMG_1770.jpeg",
@@ -168,16 +188,7 @@
     "content/attachments/F3E06D8B-BEB1-493B-89B3-D9E90CBEE1B0.jpeg",
     "content/attachments/21E8E18C-F8D3-4AF7-8A92-28D4DFE5A879.jpeg",
     "content/attachments/IMG_5014.jpeg",
-    "content/attachments/Pasted image 20230427002429.jpg",
     "content/attachments",
-    "content/private/着る服リスト.md",
-    "content/daily/2023-06-07-Wednesday.md",
-    "content/daily/2023-06-09-Friday.md",
-    "content/daily/2023-06-10-Saturday.md",
-    "content/daily/2023-06-11-Sunday.md",
-    "content/daily/2023-06-06-Tuesday.md",
-    "content/daily/2023-06-05-Monday.md",
-    "content/daily/2023-03-29-Wednesday.md",
     "assets/js/popover.js",
     "assets/js/clipboard.js",
     "assets/styles/_light_syntax.scss",
@@ -185,17 +196,6 @@
     "assets/styles/_callouts.scss",
     "assets/js/util.js",
     "assets/styles/syntax.scss",
-    "assets/styles/darkmode.scss",
-    "content/_index.md",
-    "README.md",
-    "CODE_OF_CONDUCT.md",
-    "content/templates/post.md",
-    "content/templates/note.md",
-    "content/templates/daily.md",
-    "content/note/行きたい店.md",
-    "content/note/ラーメン.md",
-    "content/note/チャーハン.md",
-    "content/note/スラッグのテスト.md",
-    "content/note/eng.md"
+    "assets/styles/darkmode.scss"
   ]
 }

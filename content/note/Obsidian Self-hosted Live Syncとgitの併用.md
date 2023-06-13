@@ -1,3 +1,11 @@
+---
+title: "Obsidian Self-hosted Live Syncとgitの併用"
+created: "2023-06-13 01:04"
+slug: 2023-06-13-01-04
+tags:
+- post
+- note
+---
 
 GitHub Pagesで公開しているのでこれをLive Syncをうまく組み合わせたい
 なので設定した方法をメモする
