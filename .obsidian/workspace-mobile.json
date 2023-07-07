@@ -51,7 +51,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/daily/2023-06-30-Friday.md",
+                "file": "content/daily/2023-07-07-Friday.md",
                 "mode": "source",
                 "source": false
               }
@@ -124,7 +124,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/daily/2023-06-30-Friday.md",
+            "file": "content/daily/2023-07-07-Friday.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "content/daily/2023-06-30-Friday.md",
+            "file": "content/daily/2023-07-07-Friday.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -153,7 +153,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "content/daily/2023-06-30-Friday.md"
+            "file": "content/daily/2023-07-07-Friday.md"
           }
         }
       }
@@ -177,9 +177,20 @@
   },
   "active": "ac7ed793b29f3c79",
   "lastOpenFiles": [
+    "content/daily/2023-07-06-Thursday.md",
+    "content/note/2023-07-06-Thursday.md",
+    "content/note/2023-07-05-Wednesday.md",
+    "content/daily/2023-07-07-Friday.md",
+    "content/note/行きたい店.md",
+    "content/daily/2023-07-04-Tuesday.md",
+    "content/daily/2023-07-03-Monday.md",
+    "content/daily/2023-07-02-Sunday.md",
+    "content/attachments/IMG_2312.jpeg",
+    "content/daily/2023-07-01-Saturday.md",
+    "content/attachments/IMG_2299.jpeg",
+    "content/daily/2023-06-30-Friday.md",
     "content/daily/2023-06-29-Thursday.md",
     "content/daily/2023-06-28-Wednesday.md",
-    "content/daily/2023-06-30-Friday.md",
     "content/daily/2023-06-22-Thursday.md",
     "content/note/ラーメン.md",
     "content/daily/2023-06-27-Tuesday.md",
@@ -198,21 +209,10 @@
     "content/daily/2023-06-17-Saturday.md",
     "content/daily/2023-06-15-Thursday.md",
     "content/daily/2023-06-14-Wednesday.md",
-    "content/daily/2023-06-08-Thursday.md",
-    "content/daily/2023-06-12-Monday.md",
-    "content/note/Test-Note.md",
-    "content/note/行きたい店.md",
-    "content/note/チャーハン.md",
-    "content/note/スラッグのテスト.md",
-    "content/note/Obsidian Self-hosted Live Syncとgitの併用.md",
-    "content/note/Obsidianとquartzで日記兼ノートまとめページをGithub Pagesに作った話.md",
-    "content/daily/2023-06-13-Tuesday.md",
     "content/attachments/Pasted image 20230613030743.jpg",
     "content/attachments/Pasted image 20230613022023.jpg",
     "content/private/attachments/IMG_1772.jpeg",
     "content/private/attachments/IMG_1771.jpeg",
-    "content/private/attachments/IMG_1770.jpeg",
-    "content/private/attachments/Pasted image 20230613012937.jpg",
     "content/private/attachments",
     "content/attachments",
     "assets/js/popover.js",
