@@ -51,7 +51,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/daily/2023-07-07-Friday.md",
+                "file": "content/daily/2023-07-12-Wednesday.md",
                 "mode": "source",
                 "source": false
               }
@@ -124,7 +124,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/daily/2023-07-07-Friday.md",
+            "file": "content/daily/2023-07-12-Wednesday.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "content/daily/2023-07-07-Friday.md",
+            "file": "content/daily/2023-07-12-Wednesday.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -153,7 +153,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "content/daily/2023-07-07-Friday.md"
+            "file": "content/daily/2023-07-12-Wednesday.md"
           }
         }
       }
@@ -177,9 +177,19 @@
   },
   "active": "ac7ed793b29f3c79",
   "lastOpenFiles": [
-    "content/daily/2023-07-06-Thursday.md",
-    "content/note/2023-07-05-Wednesday.md",
+    "content/attachments/IMG_2606.jpeg",
+    "content/note/2023-07-11-Tuesday.md",
+    "content/attachments/IMG_3802.jpeg",
+    "content/daily/2023-07-12-Wednesday.md",
+    "content/daily/2023-07-10-Monday.md",
+    "content/note/チャーハン.md",
+    "content/daily/2023-07-09-Sunday.md",
+    "content/daily/2023-07-08-Saturday.md",
+    "content/attachments/IMG_2482.jpeg",
+    "content/attachments/IMG_2484.jpeg",
     "content/daily/2023-07-07-Friday.md",
+    "content/daily/2023-07-06-Thursday.md",
+    "content/daily/2023-07-05-Wednesday.md",
     "content/note/2023-07-06-Thursday.md",
     "content/note/行きたい店.md",
     "content/daily/2023-07-04-Tuesday.md",
@@ -200,19 +210,9 @@
     "content/daily/2023-06-24-Saturday.md",
     "content/attachments/IMG_2148.jpeg",
     "content/daily/2023-06-23-Friday.md",
-    "content/daily/2023-06-21-Wednesday.md",
-    "content/daily/2023-06-20-Tuesday.md",
-    "content/daily/2023-06-19-Monday.md",
     "content/attachments/IMG_1927.jpeg",
-    "content/daily/2023-06-18-Sunday.md",
     "content/attachments/IMG_1887.jpeg",
-    "content/daily/2023-06-17-Saturday.md",
-    "content/daily/2023-06-15-Thursday.md",
-    "content/daily/2023-06-14-Wednesday.md",
     "content/attachments/Pasted image 20230613030743.jpg",
-    "content/attachments/Pasted image 20230613022023.jpg",
-    "content/private/attachments/IMG_1772.jpeg",
-    "content/private/attachments/IMG_1771.jpeg",
     "content/private/attachments",
     "content/attachments",
     "assets/js/popover.js",
