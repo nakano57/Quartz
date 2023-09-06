@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "82c4f52f885cf138",
+        "id": "4c0892cc87c1674b",
         "type": "tabs",
         "children": [
           {
-            "id": "dee6fcb3877a15f0",
+            "id": "e319990500ba79f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/daily/2023-04-03-Monday.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "02d5bca0a190814f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/daily/2023-06-05-Monday.md",
+                "file": "content/daily/2023-07-29-Saturday.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 235.5
   },
   "right": {
     "id": "ce993e652b602c19",
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/daily/2023-06-05-Monday.md",
+                "file": "content/daily/2023-07-29-Saturday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/daily/2023-06-05-Monday.md",
+                "file": "content/daily/2023-07-29-Saturday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/daily/2023-06-05-Monday.md"
+                "file": "content/daily/2023-07-29-Saturday.md"
               }
             }
           }
@@ -172,46 +159,47 @@
       "obsidian-livesync:Show log": false
     }
   },
-  "active": "02d5bca0a190814f",
+  "active": "e319990500ba79f5",
   "lastOpenFiles": [
-    "content/daily/2023-05-01-Monday.md",
+    "content/daily/2023-07-31-Monday.md",
+    "content/daily/2023-08-03-Thursday.md",
+    "content/daily/2023-03-09-Thursday.md",
+    "content/daily/2023-04-03-Monday.md",
     "content/daily/2023-06-05-Monday.md",
+    "content/private/着る服リスト.md",
+    "content/daily/2023-07-29-Saturday.md",
+    "content/attachments/IMG_3811.jpeg",
+    "content/note/K8sクラスター組めるかな.md",
+    "content/daily/2023-07-11-Tuesday.md",
+    "content/daily/2023-07-14-Friday.md",
+    "content/daily/2023-07-19-Wednesday.md",
+    "content/attachments/IMG_3085.jpeg",
+    "content/attachments/IMG_3169.jpeg",
+    "content/attachments/IMG_3261.jpeg",
+    "content/daily/2023-07-25-Tuesday.md",
+    "content/daily/2023-07-24-Monday.md",
+    "content/daily/2023-07-23-Sunday.md",
+    "content/note/2023-07-18-Tuesday.md",
+    "content/daily/2023-07-22-Saturday.md",
+    "content/daily/2023-07-21-Friday.md",
+    "content/attachments/IMG_2851.png",
+    "content/daily/2023-07-20-Thursday.md",
+    "content/daily/2023-07-26-Wednesday.md",
+    "content/daily/2023-07-16-Sunday.md",
+    "content/daily/2023-07-17-Monday.md",
+    "content/private/attachments/IMG_1770.jpeg",
+    "content/private/attachments/IMG_1772.jpeg",
+    "content/private/attachments/IMG_1771.jpeg",
+    "content/private/attachments/Pasted image 20230613012937.jpg",
+    "content/private/attachments",
+    "content/daily/2023-05-01-Monday.md",
     "content/note/Untitled.md",
     "content/daily/2023-06-04-Sunday.md",
     "README.md",
     "content/daily/2023-05-10-Wednesday.md",
-    "content/daily/2023-05-11-Thursday.md",
     "content/attachments/0B818A7D-9DAC-439D-B858-4D1A6B6283FC.png",
-    "content/daily/2023-05-02-Tuesday.md",
-    "content/daily/2023-05-04-Thursday.md",
-    "content/daily/2023-05-03-Wednesday.md",
-    "content/daily/2023-04-30-Sunday.md",
-    "content/daily/2023-04-29-Saturday.md",
-    "content/daily/2023-04-28-Friday.md",
-    "content/daily/2023-04-26-Wednesday.md",
-    "content/private/0428ワイガヤミーティング.md",
-    "content/note/2023-04-29-Saturday.md",
-    "content/attachments/3F18FADA-7476-40A9-912D-4FCA09C3C0C4.jpeg",
-    "content/note/0428ワイガヤミーティング.md",
-    "content/daily/2023-04-27-Thursday.md",
-    "content/attachments/Pasted image 20230427002429.jpg",
-    "content/daily/2023-04-15-Saturday.md",
-    "content/daily/2023-04-19-Wednesday.md",
-    "content/daily/2023-04-18-Tuesday.md",
-    "content/note/2023-04-18-Tuesday.md",
-    "content/attachments/FFC3D0A8-9965-4036-82C5-A00B92CA3639.jpeg",
-    "content/daily/2023-04-17-Monday.md",
-    "content/attachments/21E8E18C-F8D3-4AF7-8A92-28D4DFE5A879.jpeg",
-    "content/daily/2023-04-16-Sunday.md",
-    "content/note/eng.md",
-    "content/templates/note.md",
     "tags",
     "content/note",
-    "content/attachments/スクリーンショット 2023-04-11 22.03.51.png",
-    "content/attachments/Pasted image 20230411215536.png",
-    "content/attachments/E4AF6A70-40AE-49FF-9BD2-B052C4C2E171.jpeg",
-    "content/attachments/726C16AF-9E8A-4E34-9CA6-D193239AD8C5.jpeg",
-    "content/attachments/EEE415FB-E905-412B-85BD-7D8B4113EB05.jpeg",
     "0329ミーティング.pdf",
     "0324量子ミーティング.pdf",
     "Untitled.canvas",
