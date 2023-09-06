@@ -59,7 +59,7 @@
   "syncAfterMerge": false,
   "configPassphraseStore": "",
   "encryptedPassphrase": "",
-  "encryptedCouchDBConnection": "[\"/ozFx3MBY0we0zowItJcFuVWZ1JQxZcdRpxKKhypKa0oSIxV6qfnnMr2f7LLuc0EAjjmDy/Utzf+3NcQ3fjhfL8w7/cbIqeemlifVsgifokwlIwYgHwEnYoaIU2qRDCEEx1dSk7i1pqpxCuq5NyIPLjXjP5eJAileu71m96kvgc4BAyqq66sp2Q5D5u6NF+O+7JtXUjsF7947lMnkw==\",\"7935db298ffab09031fef11501000000\",\"3dec6b6cf57040ca72b24def6e9745e4\"]",
+  "encryptedCouchDBConnection": "[\"NS5xHCaT1uVFQ4USrzgt6CdTul9Z4DzA4ovWV2oIUycgF7Eaf+u2OU9bnTcHXZiUTwI2LnUJ8qM0j9eJhf26f0rmVDnRKl8NpKtVNma9KItd70owTeDrDGpBsQqcjW+LKa8hSvCUI9lEIH9xlYK/XwWXPFJCIMMwbV2Pch1H7Cjn3RUK/dvPsSTesq48IaZI5WyzZ28X6zsbToi7IQ==\",\"3cdd41c01896a5e317d5d39201000000\",\"f496537e84203437b533029bf19068a3\"]",
   "permitEmptyPassphrase": false,
   "useIndexedDBAdapter": true,
   "useTimeouts": false,
